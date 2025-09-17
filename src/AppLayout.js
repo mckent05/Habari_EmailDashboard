@@ -1,6 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux';
 import { Navigate, Outlet } from "react-router-dom";
+import NavBar from './components/navbar/NavBar';
 
 const AppLayout = () => {
   const { isSignedIn } = useSelector((state) => state.auth)
@@ -10,6 +11,7 @@ const AppLayout = () => {
   }
   return (
     <div>
+      <NavBar />
       <Outlet />
     </div>
   )
