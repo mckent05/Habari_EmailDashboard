@@ -38,7 +38,7 @@ Setup
 
 Clone this repository to your local machine:
 
-  git clone git@github.com:your-username/email-dashboard.git
+  git clone https://github.com/mckent05/Habari_EmailDashboard.git
   cd email-dashboard
 
 Install
@@ -67,7 +67,7 @@ You can deploy using Vercel, Netlify, or GitHub Pages.
 ⚡ Server-Side Pagination Approach
 
 Instead of loading all emails into memory, the dashboard requests only a slice of the dataset per page.
-This approach was chosen because it computes faster hence improving the performance of the application. Instead 
+This approach was chosen because it computes faster, hence improving the performance of the application. Instead 
 of performing the pagination on the client side and loading all emails into memory, this approach ensures the pagination is smooth.
 
 Frontend sends:
