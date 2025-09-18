@@ -1,0 +1,54 @@
+.dashboard_cont {
+  width: 80vw;
+  position: absolute;
+  left: 18.5%;
+  top: 10%;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.is_loading {
+  width: 80vw;
+  margin: auto;
+  position: absolute;
+}
+
+.sidebar {
+  width: 25%;
+}
+
+.header_list {
+  width: 75%;
+}
+
+.count {
+  margin: 0;
+  padding: 0;
+}
+
+.compose-btn {
+  background-color: rgb(205, 246, 186) !important;
+  border: 1px solid black !important;
+  color: black !important;
+  font-weight: 600;
+  box-shadow: 2px 2px 2px #c1c1c1;
+}
+
+.sidebar .nav-link {
+  color: black !important;
+  display: flex;
+  align-items: center;
+}
+
+.sidebar .nav-link i {
+  margin-right: 8px;
+}
+
+.pgn-btn {
+  border-radius: 50%;
+  border: 1px solid grey;
+}
+
+.header-input {
+  background-color: rgba(244, 244, 244, 0.827);
+}

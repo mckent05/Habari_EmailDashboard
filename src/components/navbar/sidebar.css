@@ -1,8 +1,12 @@
 .sidenav {
-  width: 250px;
+  width: 20vw;
   min-height: 100vh;
-  background-color: #fff;
-  border-right: 1px solid #ddd;
+  background-color: rgba(244, 244, 244, 0.827);;
+  border-right: 1px solid #454545;
+}
+
+.top-nav {
+  background-color: rgba(244, 244, 244, 0.827);
 }
 
 .brand {
@@ -12,8 +16,9 @@
 
 .logo {
   display: inline-block;
-  background: #000;
-  color: #fff;
+  background-color: rgb(205, 246, 186) !important;
+  box-shadow: 2px 3px 1px black;
+  color: #000;
   font-weight: bold;
   padding: 3px 8px;
   margin-right: 5px;
@@ -22,30 +27,89 @@
 
 .sidenav .nav-link {
   color: #333;
-  padding: 10px 20px;
+  padding: 8px 20px;
   cursor: pointer;
+  width: 100%;
+}
+
+.child-link {
+  color: #333;
+  padding: 5px 20px;
+  margin: 0px;
+  cursor: pointer;
+  width: 90%;
+  font-weight: 700;
+  text-transform: capitalize;
 }
 
 .sidenav .nav-link:hover {
   background-color: #f1f1f1;
 }
 
-.active-parent > .nav-link {
-  background-color: #e9ecef;
+.active-parent .nav-link {
+  background-color: #fff;
+  border-radius: 5px;
   font-weight: bold;
-  border-left: 4px solid #000;
+  border: 2px solid #000;
 }
 
-.active-child > .nav-link {
-  background-color: #dcdcdc;
+.active-child > .child-link {
+  background-color: #fff;
+  border-radius: 5px;
   font-weight: bold;
-  border-left: 4px solid #000;
+  border: 2px solid #000;
 }
 
 .navbar input {
   border-radius: 20px;
 }
 
+.nav-link:hover,
+.nav-link:focus,
+.nav-link.active {
+  color: black !important; 
+}
+
+.email {
+  display: block;
+}
+
 .navbar .btn-link {
   color: #333;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: #fff;
+  outline: none;
 }
+
+.noti-badge {
+  font-size: 0.7rem;
+  padding: 0.25em 0.5em;
+  line-height: 1;
+  background-color: rgb(236, 107, 107);
+  top: 40%;
+}
+
+.upgrade-btn {
+  width: 95%;
+  padding: 20px 8px;
+  margin: 25px auto;
+  outline: none;
+  border: 1px solid black;
+  background-color: #fff;
+}
+
+.upgrade-btn p, h5 {
+  margin-left: 20px;
+}
+
+.upgrade-btn button {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  background-color: rgb(205, 246, 186) !important;
+  border: 1px solid black;
+  outline: none;
+}
+
+

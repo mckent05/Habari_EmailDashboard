@@ -1,0 +1,2901 @@
+{
+  "data": [
+    {
+      "id": "email-fc7fef0c-3c81-4bbd-8c92-4d5d62b8e64f",
+      "userId": "user-192",
+      "from": "sender21@example.com",
+      "to": "user32@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c8cffdd3-3c2a-487e-875f-c73388dddef3",
+          "emailId": "email-fc7fef0c-3c81-4bbd-8c92-4d5d62b8e64f",
+          "filename": "presentation.pptx",
+          "size": 2886799,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/58763c6c-573f-426f-9182-ead8c01e708a.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "finance",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:30:00Z",
+      "createdAt": "2025-09-18T01:30:00Z",
+      "updatedAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "email-e3a754ca-bd45-4cf0-9529-3e29204fce31",
+      "userId": "user-842",
+      "from": "sender39@example.com",
+      "to": "user14@example.com",
+      "subject": "Follow Up",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-3fbdeec6-6a36-49f3-ab31-17651b6981a2",
+          "emailId": "email-e3a754ca-bd45-4cf0-9529-3e29204fce31",
+          "filename": "presentation.pptx",
+          "size": 1470685,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/3ad83325-a4fb-4177-8d9e-45ec4dfef769.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "urgent",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:31:00Z",
+      "createdAt": "2025-09-17T10:31:00Z",
+      "updatedAt": "2024-01-15T10:31:00Z"
+    },
+    {
+      "id": "email-0f281fb1-e2a9-4903-a497-494672bc8789",
+      "userId": "user-109",
+      "from": "sender33@example.com",
+      "to": "user43@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-85da0e92-fc09-42f7-ad5b-da174def9e3e",
+          "emailId": "email-0f281fb1-e2a9-4903-a497-494672bc8789",
+          "filename": "presentation.pptx",
+          "size": 4950091,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/550c5aa2-d73a-49c0-9ce3-91d01d951d64.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T10:32:00Z",
+      "createdAt": "2024-01-15T10:32:00Z",
+      "updatedAt": "2024-01-15T10:32:00Z"
+    },
+    {
+      "id": "email-953c4f9c-a24e-4489-8d47-bc39a7ffd066",
+      "userId": "user-570",
+      "from": "sender27@example.com",
+      "to": "user35@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-0e0871ea-ab2b-4bbb-b77e-fb567709cdec",
+          "emailId": "email-953c4f9c-a24e-4489-8d47-bc39a7ffd066",
+          "filename": "report.xlsx",
+          "size": 1154615,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/18424a40-bd7b-4dc3-ac6c-078ff6573d76.file"
+        }
+      ],
+      "labels": [
+        "finance"
+      ],
+      "timestamp": "2024-01-15T10:33:00Z",
+      "createdAt": "2024-01-15T10:33:00Z",
+      "updatedAt": "2024-01-15T10:33:00Z"
+    },
+    {
+      "id": "email-52cdca73-9705-42e5-a1bd-ac267ad0189b",
+      "userId": "user-986",
+      "from": "sender50@example.com",
+      "to": "user15@example.com",
+      "subject": "Invoice Attached",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-b70af95b-1bcc-446a-92a2-dacb27581618",
+          "emailId": "email-52cdca73-9705-42e5-a1bd-ac267ad0189b",
+          "filename": "report.xlsx",
+          "size": 3571179,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/bc69d385-e605-4422-8012-03f7a053bb87.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "meeting",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:34:00Z",
+      "createdAt": "2024-01-15T10:34:00Z",
+      "updatedAt": "2024-01-15T10:34:00Z"
+    },
+    {
+      "id": "email-773e11b0-2c77-4f26-8810-1fcfe84b1a35",
+      "userId": "user-745",
+      "from": "sender37@example.com",
+      "to": "user37@example.com",
+      "subject": "Follow Up",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-3e974c31-e621-46cc-b476-fe7066ee10e8",
+          "emailId": "email-773e11b0-2c77-4f26-8810-1fcfe84b1a35",
+          "filename": "report.xlsx",
+          "size": 1480772,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/a831b960-5f18-42a1-92a7-1361941a39f2.file"
+        }
+      ],
+      "labels": [
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T10:35:00Z",
+      "createdAt": "2024-01-15T10:35:00Z",
+      "updatedAt": "2024-01-15T10:35:00Z"
+    },
+    {
+      "id": "email-ba9e62bf-c725-4592-996f-9fdfbcb134b2",
+      "userId": "user-955",
+      "from": "sender39@example.com",
+      "to": "user3@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-cc9d2087-a03f-4967-9446-bdcaa2d9287e",
+          "emailId": "email-ba9e62bf-c725-4592-996f-9fdfbcb134b2",
+          "filename": "meeting-notes.pdf",
+          "size": 4545097,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/8b16f241-3c0b-421b-9973-b6716749cdc5.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "personal",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T10:36:00Z",
+      "createdAt": "2024-01-15T10:36:00Z",
+      "updatedAt": "2024-01-15T10:36:00Z"
+    },
+    {
+      "id": "email-6acb94fc-ec42-482f-95a9-4ed888ebc2f4",
+      "userId": "user-239",
+      "from": "sender40@example.com",
+      "to": "user28@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c2e4180d-704f-4838-bfa6-f914c3c73006",
+          "emailId": "email-6acb94fc-ec42-482f-95a9-4ed888ebc2f4",
+          "filename": "presentation.pptx",
+          "size": 792030,
+          "type": "application/pdf",
+          "url": "/uploads/935fb4c9-2ab0-449e-9e3a-22ad0cb924df.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T10:37:00Z",
+      "createdAt": "2024-01-15T10:37:00Z",
+      "updatedAt": "2024-01-15T10:37:00Z"
+    },
+    {
+      "id": "email-d5eb690e-935e-493e-8ab2-396b362fda4f",
+      "userId": "user-798",
+      "from": "sender49@example.com",
+      "to": "user21@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-791a9716-2826-4e20-826b-ad234cd91dfc",
+          "emailId": "email-d5eb690e-935e-493e-8ab2-396b362fda4f",
+          "filename": "invoice.docx",
+          "size": 3745808,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/e9bf49fa-ede5-4ae2-87f1-71f29245f3c8.file"
+        }
+      ],
+      "labels": [
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:38:00Z",
+      "createdAt": "2024-01-15T10:38:00Z",
+      "updatedAt": "2024-01-15T10:38:00Z"
+    },
+    {
+      "id": "email-90394259-842d-4999-b4ab-c0ef2e37465c",
+      "userId": "user-564",
+      "from": "sender40@example.com",
+      "to": "user19@example.com",
+      "subject": "Project Update",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-2b204bc4-ae33-494d-86ac-aaca77692261",
+          "emailId": "email-90394259-842d-4999-b4ab-c0ef2e37465c",
+          "filename": "report.xlsx",
+          "size": 720373,
+          "type": "application/pdf",
+          "url": "/uploads/6c872d0c-2c79-446d-a0d5-04ede96f924b.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "finance",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:39:00Z",
+      "createdAt": "2024-01-15T10:39:00Z",
+      "updatedAt": "2024-01-15T10:39:00Z"
+    },
+    {
+      "id": "email-b7e4c07e-dcb7-4689-a3de-551384c535ac",
+      "userId": "user-500",
+      "from": "sender48@example.com",
+      "to": "user10@example.com",
+      "subject": "Weekly Report",
+      "body": "Here is the invoice for last month.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-f5ea5b04-179e-4e74-a5ae-db7f2a5de09c",
+          "emailId": "email-b7e4c07e-dcb7-4689-a3de-551384c535ac",
+          "filename": "report.xlsx",
+          "size": 3651216,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/b469c668-c6f7-47a1-8f0e-4cf539f8e991.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:40:00Z",
+      "createdAt": "2024-01-15T10:40:00Z",
+      "updatedAt": "2024-01-15T10:40:00Z"
+    },
+    {
+      "id": "email-76db760c-74e4-4147-8157-11ea85ba84d7",
+      "userId": "user-184",
+      "from": "sender23@example.com",
+      "to": "user47@example.com",
+      "subject": "Project Update",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-9c94d028-280e-4a93-b60a-3f4c9dd99562",
+          "emailId": "email-76db760c-74e4-4147-8157-11ea85ba84d7",
+          "filename": "presentation.pptx",
+          "size": 4226093,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/ab2b4bec-0dd0-48e0-a048-04f70673ed8d.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T10:41:00Z",
+      "createdAt": "2024-01-15T10:41:00Z",
+      "updatedAt": "2024-01-15T10:41:00Z"
+    },
+    {
+      "id": "email-a81c496f-3a81-4d8d-a8b2-f5ed3e4ece3d",
+      "userId": "user-739",
+      "from": "sender38@example.com",
+      "to": "user34@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-bf40cb7b-6a02-4bb7-a616-e8733b900291",
+          "emailId": "email-a81c496f-3a81-4d8d-a8b2-f5ed3e4ece3d",
+          "filename": "presentation.pptx",
+          "size": 629923,
+          "type": "application/pdf",
+          "url": "/uploads/ab107edd-277c-42a1-8143-6817f2499a20.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "urgent",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:42:00Z",
+      "createdAt": "2024-01-15T10:42:00Z",
+      "updatedAt": "2024-01-15T10:42:00Z"
+    },
+    {
+      "id": "email-70977beb-2917-4cde-833b-2c01e895975b",
+      "userId": "user-531",
+      "from": "sender10@example.com",
+      "to": "user46@example.com",
+      "subject": "Project Update",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c83d8091-9d0e-4191-a6c7-79b8f4475571",
+          "emailId": "email-70977beb-2917-4cde-833b-2c01e895975b",
+          "filename": "report.xlsx",
+          "size": 3805744,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/d25b3c45-412d-442b-af4b-5397c04f6fb7.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T10:43:00Z",
+      "createdAt": "2024-01-15T10:43:00Z",
+      "updatedAt": "2024-01-15T10:43:00Z"
+    },
+    {
+      "id": "email-7ead3b33-0a57-4958-ab58-1e54c27a4506",
+      "userId": "user-428",
+      "from": "sender21@example.com",
+      "to": "user49@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Here is the invoice for last month.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-7a700525-f26c-4332-b34b-2370835ab87f",
+          "emailId": "email-7ead3b33-0a57-4958-ab58-1e54c27a4506",
+          "filename": "presentation.pptx",
+          "size": 1285530,
+          "type": "application/pdf",
+          "url": "/uploads/d1099efd-3a63-4c4c-8e29-02b9735b04de.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T10:44:00Z",
+      "createdAt": "2024-01-15T10:44:00Z",
+      "updatedAt": "2024-01-15T10:44:00Z"
+    },
+    {
+      "id": "email-71a3fc43-437e-4baa-aa1e-870d84669734",
+      "userId": "user-458",
+      "from": "sender28@example.com",
+      "to": "user3@example.com",
+      "subject": "Invoice Attached",
+      "body": "Here is the invoice for last month.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-3836354c-dc22-4e78-9977-29ec1a2f8dc5",
+          "emailId": "email-71a3fc43-437e-4baa-aa1e-870d84669734",
+          "filename": "meeting-notes.pdf",
+          "size": 2110339,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/4cf90d48-4a28-4cfc-9732-4def6653e48f.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T10:45:00Z",
+      "createdAt": "2024-01-15T10:45:00Z",
+      "updatedAt": "2024-01-15T10:45:00Z"
+    },
+    {
+      "id": "email-452088e8-81f8-4aae-b2f8-8af3b050aa55",
+      "userId": "user-346",
+      "from": "sender8@example.com",
+      "to": "user34@example.com",
+      "subject": "Project Update",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-68ea390b-970c-42dc-a44c-de6ac41d5a60",
+          "emailId": "email-452088e8-81f8-4aae-b2f8-8af3b050aa55",
+          "filename": "report.xlsx",
+          "size": 4851384,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/8c3851b7-d401-4b08-b4b0-4bb0143bbef0.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:46:00Z",
+      "createdAt": "2024-01-15T10:46:00Z",
+      "updatedAt": "2024-01-15T10:46:00Z"
+    },
+    {
+      "id": "email-97a7b14d-4a0e-40a8-9763-f1fda47d5eb8",
+      "userId": "user-700",
+      "from": "sender13@example.com",
+      "to": "user37@example.com",
+      "subject": "Follow Up",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-4d1c1acf-b1f9-426b-a7dc-d1acd1f44a94",
+          "emailId": "email-97a7b14d-4a0e-40a8-9763-f1fda47d5eb8",
+          "filename": "report.xlsx",
+          "size": 2932000,
+          "type": "application/pdf",
+          "url": "/uploads/93516340-4feb-4848-ab5b-6d964172bce0.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:47:00Z",
+      "createdAt": "2024-01-15T10:47:00Z",
+      "updatedAt": "2024-01-15T10:47:00Z"
+    },
+    {
+      "id": "email-b1efb281-b964-4c4b-8381-f39e26c573da",
+      "userId": "user-686",
+      "from": "sender10@example.com",
+      "to": "user33@example.com",
+      "subject": "Follow Up",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-cd555cfb-3abc-46bf-bf06-d8aa5fee879b",
+          "emailId": "email-b1efb281-b964-4c4b-8381-f39e26c573da",
+          "filename": "invoice.docx",
+          "size": 2061401,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/baa38a23-414e-4915-af42-1f57f1c565c9.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:48:00Z",
+      "createdAt": "2024-01-15T10:48:00Z",
+      "updatedAt": "2024-01-15T10:48:00Z"
+    },
+    {
+      "id": "email-f38469c2-b333-481b-b01a-00d68ad76a7e",
+      "userId": "user-303",
+      "from": "sender21@example.com",
+      "to": "user17@example.com",
+      "subject": "Project Update",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-fabfca9c-f684-440b-a27f-c46959e0309c",
+          "emailId": "email-f38469c2-b333-481b-b01a-00d68ad76a7e",
+          "filename": "meeting-notes.pdf",
+          "size": 1724015,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/90ce187c-38ab-4d8e-9ea3-f152ce53b7b7.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "finance",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:49:00Z",
+      "createdAt": "2024-01-15T10:49:00Z",
+      "updatedAt": "2024-01-15T10:49:00Z"
+    },
+    {
+      "id": "email-1b48128c-5b99-4f5f-84c1-08925d528f77",
+      "userId": "user-217",
+      "from": "sender32@example.com",
+      "to": "user25@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-6019f3da-fe18-44c7-9581-d7c52df60649",
+          "emailId": "email-1b48128c-5b99-4f5f-84c1-08925d528f77",
+          "filename": "presentation.pptx",
+          "size": 3788001,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/3c573ec1-f0e8-435a-98aa-3f726371c42d.file"
+        }
+      ],
+      "labels": [
+        "finance"
+      ],
+      "timestamp": "2024-01-15T10:50:00Z",
+      "createdAt": "2024-01-15T10:50:00Z",
+      "updatedAt": "2024-01-15T10:50:00Z"
+    },
+    {
+      "id": "email-a91c28a9-18aa-41db-aca2-b2f7ed7160d8",
+      "userId": "user-925",
+      "from": "sender27@example.com",
+      "to": "user10@example.com",
+      "subject": "Follow Up",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-4b52bde0-7270-498b-a4e7-ecdfbf87187e",
+          "emailId": "email-a91c28a9-18aa-41db-aca2-b2f7ed7160d8",
+          "filename": "invoice.docx",
+          "size": 3134701,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/83baf6f0-8082-4fa1-8c43-78bc00d2dc92.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T10:51:00Z",
+      "createdAt": "2024-01-15T10:51:00Z",
+      "updatedAt": "2024-01-15T10:51:00Z"
+    },
+    {
+      "id": "email-b2494044-ea33-4888-9d24-e87757481007",
+      "userId": "user-729",
+      "from": "sender46@example.com",
+      "to": "user16@example.com",
+      "subject": "Invoice Attached",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-4a2b2f25-0cac-4491-b1ce-e076d34ec828",
+          "emailId": "email-b2494044-ea33-4888-9d24-e87757481007",
+          "filename": "report.xlsx",
+          "size": 1482947,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/4c62bbeb-1a11-4c51-8093-afa3cce08500.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "meeting",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T10:52:00Z",
+      "createdAt": "2024-01-15T10:52:00Z",
+      "updatedAt": "2024-01-15T10:52:00Z"
+    },
+    {
+      "id": "email-f3158265-63ed-4dc4-8328-50cea9a0d4d6",
+      "userId": "user-743",
+      "from": "sender32@example.com",
+      "to": "user30@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-dbd53351-95e8-42dc-871a-90e9c94d263f",
+          "emailId": "email-f3158265-63ed-4dc4-8328-50cea9a0d4d6",
+          "filename": "presentation.pptx",
+          "size": 3545912,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/4dd77607-b32b-4da8-822f-b3e7725335be.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T10:53:00Z",
+      "createdAt": "2024-01-15T10:53:00Z",
+      "updatedAt": "2024-01-15T10:53:00Z"
+    },
+    {
+      "id": "email-19cfbb89-e5ba-466d-a75a-96b8f531070b",
+      "userId": "user-555",
+      "from": "sender40@example.com",
+      "to": "user49@example.com",
+      "subject": "Follow Up",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-17c1b247-88fa-4dc8-b1a3-b5244f9c9991",
+          "emailId": "email-19cfbb89-e5ba-466d-a75a-96b8f531070b",
+          "filename": "invoice.docx",
+          "size": 1198554,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/bafcf56c-c7cc-4e5c-86e4-0c34cf4eb93d.file"
+        }
+      ],
+      "labels": [
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:54:00Z",
+      "createdAt": "2024-01-15T10:54:00Z",
+      "updatedAt": "2024-01-15T10:54:00Z"
+    },
+    {
+      "id": "email-177c3f16-c35b-445d-91ab-0284e6c38869",
+      "userId": "user-228",
+      "from": "sender17@example.com",
+      "to": "user37@example.com",
+      "subject": "Follow Up",
+      "body": "Here is the invoice for last month.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-634c09b4-264d-48e3-973c-044bbe6a9fec",
+          "emailId": "email-177c3f16-c35b-445d-91ab-0284e6c38869",
+          "filename": "report.xlsx",
+          "size": 1094441,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/9896f20d-15eb-47a1-8ba9-6ec26b8292ca.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T10:55:00Z",
+      "createdAt": "2024-01-15T10:55:00Z",
+      "updatedAt": "2024-01-15T10:55:00Z"
+    },
+    {
+      "id": "email-d6888abb-5e6b-4f89-b813-3bef9599495f",
+      "userId": "user-644",
+      "from": "sender28@example.com",
+      "to": "user32@example.com",
+      "subject": "Project Update",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-84646e57-056b-4c79-90ff-bd77986b2e2c",
+          "emailId": "email-d6888abb-5e6b-4f89-b813-3bef9599495f",
+          "filename": "report.xlsx",
+          "size": 3622975,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/ddfc4ca2-c2ad-4072-84cc-ccd87de97603.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T10:56:00Z",
+      "createdAt": "2024-01-15T10:56:00Z",
+      "updatedAt": "2024-01-15T10:56:00Z"
+    },
+    {
+      "id": "email-d13d8eed-d05d-4547-b313-b5ee305ee561",
+      "userId": "user-980",
+      "from": "sender9@example.com",
+      "to": "user11@example.com",
+      "subject": "Project Update",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-abb3324f-b18e-44d2-9e5d-92e0617f1c3e",
+          "emailId": "email-d13d8eed-d05d-4547-b313-b5ee305ee561",
+          "filename": "meeting-notes.pdf",
+          "size": 390130,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/fc836b95-4d48-4b30-b272-aa06cfafd1c9.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T10:57:00Z",
+      "createdAt": "2024-01-15T10:57:00Z",
+      "updatedAt": "2024-01-15T10:57:00Z"
+    },
+    {
+      "id": "email-7ee198ff-ee01-4d7d-9b7c-d2f94c75657a",
+      "userId": "user-403",
+      "from": "sender40@example.com",
+      "to": "user41@example.com",
+      "subject": "Follow Up",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-f9a4e722-3d5d-42bf-8d27-dcecbbe6a960",
+          "emailId": "email-7ee198ff-ee01-4d7d-9b7c-d2f94c75657a",
+          "filename": "report.xlsx",
+          "size": 3469574,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/a025753c-7cfb-40ec-ad55-b9a7856d2643.file"
+        }
+      ],
+      "labels": [
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:58:00Z",
+      "createdAt": "2024-01-15T10:58:00Z",
+      "updatedAt": "2024-01-15T10:58:00Z"
+    },
+    {
+      "id": "email-2597f64d-3448-4aaf-af65-f74d1df46324",
+      "userId": "user-643",
+      "from": "sender29@example.com",
+      "to": "user7@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c10e78f0-54b4-424d-bb3e-31b0a30771cf",
+          "emailId": "email-2597f64d-3448-4aaf-af65-f74d1df46324",
+          "filename": "invoice.docx",
+          "size": 776935,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/35fae7c4-75f6-4bba-8b7d-1f4740360100.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "work",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T10:59:00Z",
+      "createdAt": "2024-01-15T10:59:00Z",
+      "updatedAt": "2024-01-15T10:59:00Z"
+    },
+    {
+      "id": "email-5ccb0ca6-45a4-4581-b6a6-79ad56d26dc2",
+      "userId": "user-646",
+      "from": "sender34@example.com",
+      "to": "user2@example.com",
+      "subject": "Project Update",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-b4befeac-31f1-4551-8133-b07c0fd5ad9a",
+          "emailId": "email-5ccb0ca6-45a4-4581-b6a6-79ad56d26dc2",
+          "filename": "meeting-notes.pdf",
+          "size": 1294957,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/44aa5ddb-dc95-4360-8bd8-16e060f7c9bd.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:00:00Z",
+      "createdAt": "2024-01-15T11:00:00Z",
+      "updatedAt": "2024-01-15T11:00:00Z"
+    },
+    {
+      "id": "email-d625002f-cb6c-42d6-a4c7-6530e124de3b",
+      "userId": "user-525",
+      "from": "sender27@example.com",
+      "to": "user18@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-9a9b67f9-2df6-4b14-9fb4-093daf9f02d4",
+          "emailId": "email-d625002f-cb6c-42d6-a4c7-6530e124de3b",
+          "filename": "meeting-notes.pdf",
+          "size": 3416377,
+          "type": "application/pdf",
+          "url": "/uploads/94044d43-8886-4835-8485-f09e95604e17.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "personal",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:01:00Z",
+      "createdAt": "2024-01-15T11:01:00Z",
+      "updatedAt": "2024-01-15T11:01:00Z"
+    },
+    {
+      "id": "email-d73468f3-64e7-49da-a8b4-bfe06db49267",
+      "userId": "user-129",
+      "from": "sender37@example.com",
+      "to": "user27@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-3805ff59-402a-4c7b-a1db-b0b2b6a94a71",
+          "emailId": "email-d73468f3-64e7-49da-a8b4-bfe06db49267",
+          "filename": "invoice.docx",
+          "size": 646002,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/6af60724-d37e-4ba6-8133-24b86544fa3b.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:02:00Z",
+      "createdAt": "2024-01-15T11:02:00Z",
+      "updatedAt": "2024-01-15T11:02:00Z"
+    },
+    {
+      "id": "email-879755a0-cfb7-41f0-b59e-2fbe36de33a4",
+      "userId": "user-285",
+      "from": "sender13@example.com",
+      "to": "user37@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-94ae482d-c308-4c72-bdd8-9f957c26c609",
+          "emailId": "email-879755a0-cfb7-41f0-b59e-2fbe36de33a4",
+          "filename": "report.xlsx",
+          "size": 4286232,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/b57c890e-2376-42c2-83cb-0cdf9617c04d.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:03:00Z",
+      "createdAt": "2024-01-15T11:03:00Z",
+      "updatedAt": "2024-01-15T11:03:00Z"
+    },
+    {
+      "id": "email-f4ca4f48-0ccc-49d8-b67e-6a1ec265d6ca",
+      "userId": "user-585",
+      "from": "sender21@example.com",
+      "to": "user11@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-1386e32d-567b-4648-9340-407e3aac9aa0",
+          "emailId": "email-f4ca4f48-0ccc-49d8-b67e-6a1ec265d6ca",
+          "filename": "invoice.docx",
+          "size": 4166309,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/450ae020-4c15-489b-ab01-74a4f513200c.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:04:00Z",
+      "createdAt": "2024-01-15T11:04:00Z",
+      "updatedAt": "2024-01-15T11:04:00Z"
+    },
+    {
+      "id": "email-86aa4d0c-6abd-40f7-b107-f09ca85554bc",
+      "userId": "user-253",
+      "from": "sender4@example.com",
+      "to": "user24@example.com",
+      "subject": "Weekly Report",
+      "body": "Here is the invoice for last month.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-6bd489a8-dc96-4b6c-b56e-771b13cf5acc",
+          "emailId": "email-86aa4d0c-6abd-40f7-b107-f09ca85554bc",
+          "filename": "report.xlsx",
+          "size": 1468367,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/1e17fb40-c612-48ce-af7e-6cc33d45f9fb.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "meeting",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:05:00Z",
+      "createdAt": "2024-01-15T11:05:00Z",
+      "updatedAt": "2024-01-15T11:05:00Z"
+    },
+    {
+      "id": "email-e3370734-3fae-4f8b-90fb-0cc049c7d5d9",
+      "userId": "user-659",
+      "from": "sender17@example.com",
+      "to": "user27@example.com",
+      "subject": "Invoice Attached",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-90c89c90-468a-4ab2-85b6-93dcd0683c59",
+          "emailId": "email-e3370734-3fae-4f8b-90fb-0cc049c7d5d9",
+          "filename": "report.xlsx",
+          "size": 1546282,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/46c0f27e-5536-4164-a365-f79813c7d27c.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:06:00Z",
+      "createdAt": "2024-01-15T11:06:00Z",
+      "updatedAt": "2024-01-15T11:06:00Z"
+    },
+    {
+      "id": "email-34ee289b-cf86-4ce3-a41d-e41a5e793cb1",
+      "userId": "user-858",
+      "from": "sender22@example.com",
+      "to": "user10@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-53edc450-6f79-4b8a-b309-52e99b0fb760",
+          "emailId": "email-34ee289b-cf86-4ce3-a41d-e41a5e793cb1",
+          "filename": "report.xlsx",
+          "size": 654860,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/0a4b00f7-6036-45ce-959d-d79fb960f3d8.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "finance",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:07:00Z",
+      "createdAt": "2024-01-15T11:07:00Z",
+      "updatedAt": "2024-01-15T11:07:00Z"
+    },
+    {
+      "id": "email-d4fc2b83-0322-4444-a025-7a7a0551b704",
+      "userId": "user-882",
+      "from": "sender46@example.com",
+      "to": "user15@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-54624944-099b-43b4-bac3-140a2de434d8",
+          "emailId": "email-d4fc2b83-0322-4444-a025-7a7a0551b704",
+          "filename": "meeting-notes.pdf",
+          "size": 4199602,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/8e3dadf2-6475-4289-86f2-e931b17b4321.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:08:00Z",
+      "createdAt": "2024-01-15T11:08:00Z",
+      "updatedAt": "2024-01-15T11:08:00Z"
+    },
+    {
+      "id": "email-f3a1ccb0-d645-47ab-b95d-ee420b34b475",
+      "userId": "user-146",
+      "from": "sender3@example.com",
+      "to": "user7@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-876e5533-8b93-4c21-92bb-da95ea58412a",
+          "emailId": "email-f3a1ccb0-d645-47ab-b95d-ee420b34b475",
+          "filename": "invoice.docx",
+          "size": 4397553,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/e392afb2-1f79-4caf-93a3-159e1d29c528.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:09:00Z",
+      "createdAt": "2024-01-15T11:09:00Z",
+      "updatedAt": "2024-01-15T11:09:00Z"
+    },
+    {
+      "id": "email-e9e86f27-b6c1-4a9b-9dda-4c5a876159bb",
+      "userId": "user-200",
+      "from": "sender43@example.com",
+      "to": "user33@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c939a426-baa5-4cb8-8617-428eee2fac05",
+          "emailId": "email-e9e86f27-b6c1-4a9b-9dda-4c5a876159bb",
+          "filename": "invoice.docx",
+          "size": 965520,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/d853ce94-3fcd-448a-a035-a3666ac521af.file"
+        }
+      ],
+      "labels": [
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:10:00Z",
+      "createdAt": "2024-01-15T11:10:00Z",
+      "updatedAt": "2024-01-15T11:10:00Z"
+    },
+    {
+      "id": "email-03d35659-9893-4f9b-9bb1-e3d022777ac8",
+      "userId": "user-578",
+      "from": "sender31@example.com",
+      "to": "user24@example.com",
+      "subject": "Project Update",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-0ecba29c-684e-4da3-875f-a680063f4c79",
+          "emailId": "email-03d35659-9893-4f9b-9bb1-e3d022777ac8",
+          "filename": "report.xlsx",
+          "size": 3312101,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/fc30bc00-c703-48f2-a1ed-2a1518a0b435.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:11:00Z",
+      "createdAt": "2024-01-15T11:11:00Z",
+      "updatedAt": "2024-01-15T11:11:00Z"
+    },
+    {
+      "id": "email-d9c824b6-2f86-49f5-be67-3caf07220224",
+      "userId": "user-545",
+      "from": "sender6@example.com",
+      "to": "user33@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-50e96712-eb7a-4faa-b4e9-cc8befb100cf",
+          "emailId": "email-d9c824b6-2f86-49f5-be67-3caf07220224",
+          "filename": "report.xlsx",
+          "size": 3425090,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/024ea144-095b-47b0-9494-244119de4d9f.file"
+        }
+      ],
+      "labels": [
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:12:00Z",
+      "createdAt": "2024-01-15T11:12:00Z",
+      "updatedAt": "2024-01-15T11:12:00Z"
+    },
+    {
+      "id": "email-68b8b64f-45b1-4e15-84fc-f590c7999b1e",
+      "userId": "user-979",
+      "from": "sender30@example.com",
+      "to": "user7@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-85b324e6-5fce-46ec-bb2c-d9a7036a237b",
+          "emailId": "email-68b8b64f-45b1-4e15-84fc-f590c7999b1e",
+          "filename": "report.xlsx",
+          "size": 3511589,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/ffb56efc-e9c6-444c-966e-7797fde0320e.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:13:00Z",
+      "createdAt": "2024-01-15T11:13:00Z",
+      "updatedAt": "2024-01-15T11:13:00Z"
+    },
+    {
+      "id": "email-2f94089a-4694-4b8c-9383-b992a05c7b40",
+      "userId": "user-917",
+      "from": "sender40@example.com",
+      "to": "user4@example.com",
+      "subject": "Follow Up",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-78ae05db-aa17-4687-9e9f-f57fb672fc7c",
+          "emailId": "email-2f94089a-4694-4b8c-9383-b992a05c7b40",
+          "filename": "presentation.pptx",
+          "size": 3856250,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/ec56d941-c6c5-4957-8704-93ebb6ef9adc.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:14:00Z",
+      "createdAt": "2024-01-15T11:14:00Z",
+      "updatedAt": "2024-01-15T11:14:00Z"
+    },
+    {
+      "id": "email-db091b0a-304d-4bf4-8ccb-bc4081785450",
+      "userId": "user-566",
+      "from": "sender35@example.com",
+      "to": "user19@example.com",
+      "subject": "Follow Up",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-32de26c0-9c59-4d7f-adf8-5968ee56f735",
+          "emailId": "email-db091b0a-304d-4bf4-8ccb-bc4081785450",
+          "filename": "presentation.pptx",
+          "size": 1366735,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/38f79141-d439-41c2-9da6-7cd2283e428d.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:15:00Z",
+      "createdAt": "2024-01-15T11:15:00Z",
+      "updatedAt": "2024-01-15T11:15:00Z"
+    },
+    {
+      "id": "email-a5c76a92-00cc-4319-af43-1a2a0c7ac0f7",
+      "userId": "user-256",
+      "from": "sender5@example.com",
+      "to": "user9@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-7a9b0ada-2b08-4a93-ae0d-cc75e32a1100",
+          "emailId": "email-a5c76a92-00cc-4319-af43-1a2a0c7ac0f7",
+          "filename": "presentation.pptx",
+          "size": 4151042,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/4444f3ae-ef9f-4a02-8a19-314b4a99fc94.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:16:00Z",
+      "createdAt": "2024-01-15T11:16:00Z",
+      "updatedAt": "2024-01-15T11:16:00Z"
+    },
+    {
+      "id": "email-551e8698-40cc-41da-a71b-eb0760a94fa4",
+      "userId": "user-539",
+      "from": "sender7@example.com",
+      "to": "user22@example.com",
+      "subject": "Invoice Attached",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-6df314a2-ebfa-4a85-8674-be494c8a6e18",
+          "emailId": "email-551e8698-40cc-41da-a71b-eb0760a94fa4",
+          "filename": "meeting-notes.pdf",
+          "size": 4726901,
+          "type": "application/pdf",
+          "url": "/uploads/44a7f371-68ae-4767-a6aa-096302a93739.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:17:00Z",
+      "createdAt": "2024-01-15T11:17:00Z",
+      "updatedAt": "2024-01-15T11:17:00Z"
+    },
+    {
+      "id": "email-b13c7b9f-218a-4942-bc95-2eb06dc15674",
+      "userId": "user-732",
+      "from": "sender46@example.com",
+      "to": "user2@example.com",
+      "subject": "Project Update",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-8f41e3ff-9b87-41b6-81ee-bc8ac7370277",
+          "emailId": "email-b13c7b9f-218a-4942-bc95-2eb06dc15674",
+          "filename": "report.xlsx",
+          "size": 4018530,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/52dc2511-f6ee-4c94-bbd4-f70394ebf58b.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:18:00Z",
+      "createdAt": "2024-01-15T11:18:00Z",
+      "updatedAt": "2024-01-15T11:18:00Z"
+    },
+    {
+      "id": "email-90c9fa25-714c-4bda-8e2d-189e4fa456c1",
+      "userId": "user-201",
+      "from": "sender9@example.com",
+      "to": "user50@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c4e5467f-0769-4733-a933-faaf32a47a5f",
+          "emailId": "email-90c9fa25-714c-4bda-8e2d-189e4fa456c1",
+          "filename": "invoice.docx",
+          "size": 1224990,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/b34a303f-e064-4a69-8d56-206d1957a43c.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:19:00Z",
+      "createdAt": "2024-01-15T11:19:00Z",
+      "updatedAt": "2024-01-15T11:19:00Z"
+    },
+    {
+      "id": "email-1da72519-569b-4179-81f0-e9cb2ce89f51",
+      "userId": "user-694",
+      "from": "sender47@example.com",
+      "to": "user21@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-a6ebab70-ef1a-4311-aece-5828b9d029d5",
+          "emailId": "email-1da72519-569b-4179-81f0-e9cb2ce89f51",
+          "filename": "meeting-notes.pdf",
+          "size": 4071877,
+          "type": "application/pdf",
+          "url": "/uploads/2a37353a-a82d-4c2b-8654-65e3acb3619a.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:20:00Z",
+      "createdAt": "2024-01-15T11:20:00Z",
+      "updatedAt": "2024-01-15T11:20:00Z"
+    },
+    {
+      "id": "email-395f0986-e671-4d61-bfae-e4157b35cda0",
+      "userId": "user-615",
+      "from": "sender39@example.com",
+      "to": "user20@example.com",
+      "subject": "Follow Up",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-736e3c8d-0da5-4f64-83d0-ee453d90439b",
+          "emailId": "email-395f0986-e671-4d61-bfae-e4157b35cda0",
+          "filename": "meeting-notes.pdf",
+          "size": 4793011,
+          "type": "application/pdf",
+          "url": "/uploads/c5e987ae-0776-485a-bd56-7ac9b6d46617.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "personal",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:21:00Z",
+      "createdAt": "2024-01-15T11:21:00Z",
+      "updatedAt": "2024-01-15T11:21:00Z"
+    },
+    {
+      "id": "email-7e24ad27-c7b6-4ca3-b8ef-66e552e39239",
+      "userId": "user-874",
+      "from": "sender27@example.com",
+      "to": "user47@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-79a43c96-3f37-4deb-8412-9d0ae3c6da44",
+          "emailId": "email-7e24ad27-c7b6-4ca3-b8ef-66e552e39239",
+          "filename": "meeting-notes.pdf",
+          "size": 3082415,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/6618fa67-3aeb-44d4-b54b-bb563275b048.file"
+        }
+      ],
+      "labels": [
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:22:00Z",
+      "createdAt": "2024-01-15T11:22:00Z",
+      "updatedAt": "2024-01-15T11:22:00Z"
+    },
+    {
+      "id": "email-3822cd69-a427-451f-95be-327c7727db3c",
+      "userId": "user-463",
+      "from": "sender37@example.com",
+      "to": "user30@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-69faa0bd-2ed2-4e02-9d6b-afc0b6fff12a",
+          "emailId": "email-3822cd69-a427-451f-95be-327c7727db3c",
+          "filename": "invoice.docx",
+          "size": 3636446,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/e8680339-2563-4bd1-b844-c8f30f4791de.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:23:00Z",
+      "createdAt": "2024-01-15T11:23:00Z",
+      "updatedAt": "2024-01-15T11:23:00Z"
+    },
+    {
+      "id": "email-7648474c-fbd5-464b-95c5-cfc76be9b139",
+      "userId": "user-829",
+      "from": "sender6@example.com",
+      "to": "user5@example.com",
+      "subject": "Invoice Attached",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-aa9b3917-fc84-443a-984a-d52c502e2d80",
+          "emailId": "email-7648474c-fbd5-464b-95c5-cfc76be9b139",
+          "filename": "invoice.docx",
+          "size": 4350177,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/1d12c832-3e29-4317-b536-6a0b46a4287d.file"
+        }
+      ],
+      "labels": [
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:24:00Z",
+      "createdAt": "2024-01-15T11:24:00Z",
+      "updatedAt": "2024-01-15T11:24:00Z"
+    },
+    {
+      "id": "email-ca64ff38-b906-46bf-9de7-9b99e32b2736",
+      "userId": "user-668",
+      "from": "sender14@example.com",
+      "to": "user4@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-6c73d2b6-af96-4e25-b5dc-7dbba1cf6f56",
+          "emailId": "email-ca64ff38-b906-46bf-9de7-9b99e32b2736",
+          "filename": "meeting-notes.pdf",
+          "size": 1673823,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/602a5795-aa8f-422e-aa83-5ae5553c0d7f.file"
+        }
+      ],
+      "labels": [
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:25:00Z",
+      "createdAt": "2024-01-15T11:25:00Z",
+      "updatedAt": "2024-01-15T11:25:00Z"
+    },
+    {
+      "id": "email-5a8da66a-ae8a-4e61-9931-7a78aeb7c8ad",
+      "userId": "user-330",
+      "from": "sender25@example.com",
+      "to": "user50@example.com",
+      "subject": "Follow Up",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-594c6c1e-dfe7-42c6-9016-873f80da8453",
+          "emailId": "email-5a8da66a-ae8a-4e61-9931-7a78aeb7c8ad",
+          "filename": "invoice.docx",
+          "size": 3377040,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/917cc9d7-a070-4e08-b4ee-c12b66980b81.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:26:00Z",
+      "createdAt": "2024-01-15T11:26:00Z",
+      "updatedAt": "2024-01-15T11:26:00Z"
+    },
+    {
+      "id": "email-b801aa99-b648-441b-8b07-163c05a93297",
+      "userId": "user-119",
+      "from": "sender27@example.com",
+      "to": "user2@example.com",
+      "subject": "Invoice Attached",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-5492c7e5-af48-4ade-937f-798dd3f6a277",
+          "emailId": "email-b801aa99-b648-441b-8b07-163c05a93297",
+          "filename": "report.xlsx",
+          "size": 968685,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/090a9447-67aa-408f-a727-a7707c309a4f.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:27:00Z",
+      "createdAt": "2024-01-15T11:27:00Z",
+      "updatedAt": "2024-01-15T11:27:00Z"
+    },
+    {
+      "id": "email-c54d8f5d-9bb9-4bb6-bcc7-4b92638b9d12",
+      "userId": "user-789",
+      "from": "sender25@example.com",
+      "to": "user14@example.com",
+      "subject": "Project Update",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-a6af94f2-ac5b-4c07-bde9-6c162cc1f8ea",
+          "emailId": "email-c54d8f5d-9bb9-4bb6-bcc7-4b92638b9d12",
+          "filename": "meeting-notes.pdf",
+          "size": 559687,
+          "type": "application/pdf",
+          "url": "/uploads/868a5d5b-7542-48ca-8890-cfa5ac548510.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "urgent",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:28:00Z",
+      "createdAt": "2024-01-15T11:28:00Z",
+      "updatedAt": "2024-01-15T11:28:00Z"
+    },
+    {
+      "id": "email-32b1c076-9f81-4536-bdb6-1fb97632172b",
+      "userId": "user-862",
+      "from": "sender44@example.com",
+      "to": "user5@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-66da9cd3-64c4-4cc2-972f-15777518b8f3",
+          "emailId": "email-32b1c076-9f81-4536-bdb6-1fb97632172b",
+          "filename": "meeting-notes.pdf",
+          "size": 1475516,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/2a18be48-cb12-4596-9755-48fb2b99b5e7.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:29:00Z",
+      "createdAt": "2024-01-15T11:29:00Z",
+      "updatedAt": "2024-01-15T11:29:00Z"
+    },
+    {
+      "id": "email-d22e16bc-ae85-43d3-8a82-0f8e852b3c18",
+      "userId": "user-385",
+      "from": "sender32@example.com",
+      "to": "user16@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-bccb4c86-5653-43d7-9acc-356c2b883b03",
+          "emailId": "email-d22e16bc-ae85-43d3-8a82-0f8e852b3c18",
+          "filename": "report.xlsx",
+          "size": 3514001,
+          "type": "application/pdf",
+          "url": "/uploads/fed1155e-80ca-424e-b6ad-beb5a269ba37.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:30:00Z",
+      "createdAt": "2024-01-15T11:30:00Z",
+      "updatedAt": "2024-01-15T11:30:00Z"
+    },
+    {
+      "id": "email-ebb7a950-0031-4b36-ada6-f530110ff22c",
+      "userId": "user-612",
+      "from": "sender13@example.com",
+      "to": "user30@example.com",
+      "subject": "Follow Up",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-cd48207f-c143-4b1e-8b51-f3029c2de8e8",
+          "emailId": "email-ebb7a950-0031-4b36-ada6-f530110ff22c",
+          "filename": "presentation.pptx",
+          "size": 1927278,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/981e416c-d247-44f6-ac8e-5f00f5f0ea23.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "meeting",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:31:00Z",
+      "createdAt": "2024-01-15T11:31:00Z",
+      "updatedAt": "2024-01-15T11:31:00Z"
+    },
+    {
+      "id": "email-845b9f8e-7b26-40e0-a413-f1a123fa8189",
+      "userId": "user-485",
+      "from": "sender45@example.com",
+      "to": "user11@example.com",
+      "subject": "Invoice Attached",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-332f94f7-5ca2-4bd3-8348-2d16249e868c",
+          "emailId": "email-845b9f8e-7b26-40e0-a413-f1a123fa8189",
+          "filename": "report.xlsx",
+          "size": 1055583,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/d9697c70-f8e8-41a1-8b2f-a556188d2f43.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "finance",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:32:00Z",
+      "createdAt": "2024-01-15T11:32:00Z",
+      "updatedAt": "2024-01-15T11:32:00Z"
+    },
+    {
+      "id": "email-37dce649-b517-4038-9dd4-9691fe8afe07",
+      "userId": "user-194",
+      "from": "sender33@example.com",
+      "to": "user33@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-1f965dcb-2baa-479d-91ff-0d241e244516",
+          "emailId": "email-37dce649-b517-4038-9dd4-9691fe8afe07",
+          "filename": "invoice.docx",
+          "size": 4112764,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/31214020-1f99-4feb-8fd8-491e1fd8a7ef.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:33:00Z",
+      "createdAt": "2024-01-15T11:33:00Z",
+      "updatedAt": "2024-01-15T11:33:00Z"
+    },
+    {
+      "id": "email-caf746ac-6bdf-426c-bc90-c83f95322936",
+      "userId": "user-330",
+      "from": "sender18@example.com",
+      "to": "user27@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-a9cb13e1-51df-49bc-930b-7879e441b701",
+          "emailId": "email-caf746ac-6bdf-426c-bc90-c83f95322936",
+          "filename": "presentation.pptx",
+          "size": 1306369,
+          "type": "application/pdf",
+          "url": "/uploads/079840e1-c57d-45b7-a228-abc9bc5fb88b.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:34:00Z",
+      "createdAt": "2024-01-15T11:34:00Z",
+      "updatedAt": "2024-01-15T11:34:00Z"
+    },
+    {
+      "id": "email-9f6af483-9f13-469c-9fe2-b1014a8c50fe",
+      "userId": "user-845",
+      "from": "sender42@example.com",
+      "to": "user34@example.com",
+      "subject": "Weekly Report",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-16862646-8e0a-4a0f-983c-32d8e64b6198",
+          "emailId": "email-9f6af483-9f13-469c-9fe2-b1014a8c50fe",
+          "filename": "invoice.docx",
+          "size": 1327394,
+          "type": "application/pdf",
+          "url": "/uploads/b575bf7a-d1e2-4076-b3fb-36bea55134a5.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:35:00Z",
+      "createdAt": "2024-01-15T11:35:00Z",
+      "updatedAt": "2024-01-15T11:35:00Z"
+    },
+    {
+      "id": "email-9e57ad3a-7eb2-4f8b-a081-0db2660c327d",
+      "userId": "user-280",
+      "from": "sender7@example.com",
+      "to": "user35@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-a5bfffd4-0ebe-4ff7-a26c-d15a480e5a18",
+          "emailId": "email-9e57ad3a-7eb2-4f8b-a081-0db2660c327d",
+          "filename": "meeting-notes.pdf",
+          "size": 860616,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/361184b8-2572-4146-9868-cabf370badd7.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:36:00Z",
+      "createdAt": "2024-01-15T11:36:00Z",
+      "updatedAt": "2024-01-15T11:36:00Z"
+    },
+    {
+      "id": "email-d3ed3aa7-187a-4c4d-b8eb-f2117fb060ac",
+      "userId": "user-910",
+      "from": "sender28@example.com",
+      "to": "user6@example.com",
+      "subject": "Project Update",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c07d1060-b584-4b7d-a5bd-8b57642f809c",
+          "emailId": "email-d3ed3aa7-187a-4c4d-b8eb-f2117fb060ac",
+          "filename": "presentation.pptx",
+          "size": 3672298,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/17367a98-014e-4683-ab43-ae234580fdcb.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:37:00Z",
+      "createdAt": "2024-01-15T11:37:00Z",
+      "updatedAt": "2024-01-15T11:37:00Z"
+    },
+    {
+      "id": "email-77061ccc-a486-40ca-a66a-407b042d58a6",
+      "userId": "user-288",
+      "from": "sender44@example.com",
+      "to": "user33@example.com",
+      "subject": "Invoice Attached",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-2741b2cd-b86a-4ac6-9220-2513c14aa55b",
+          "emailId": "email-77061ccc-a486-40ca-a66a-407b042d58a6",
+          "filename": "invoice.docx",
+          "size": 2068895,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/961b46bd-fa1b-418e-8ade-9a8692443e38.file"
+        }
+      ],
+      "labels": [
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:38:00Z",
+      "createdAt": "2024-01-15T11:38:00Z",
+      "updatedAt": "2024-01-15T11:38:00Z"
+    },
+    {
+      "id": "email-e2cd8595-e341-4aa2-8938-80e614597d3d",
+      "userId": "user-132",
+      "from": "sender14@example.com",
+      "to": "user12@example.com",
+      "subject": "Follow Up",
+      "body": "Here is the invoice for last month.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-994ed8a6-2985-482f-b383-ba9aeed17de1",
+          "emailId": "email-e2cd8595-e341-4aa2-8938-80e614597d3d",
+          "filename": "meeting-notes.pdf",
+          "size": 897641,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/88111dd3-5357-443e-9eb9-d6f8f579a2ff.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "personal",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:39:00Z",
+      "createdAt": "2024-01-15T11:39:00Z",
+      "updatedAt": "2024-01-15T11:39:00Z"
+    },
+    {
+      "id": "email-dd319813-a3b0-41ca-9c14-23b40536bdbe",
+      "userId": "user-126",
+      "from": "sender49@example.com",
+      "to": "user3@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-079a7b86-d31a-4a57-b51b-f63b9d2d1010",
+          "emailId": "email-dd319813-a3b0-41ca-9c14-23b40536bdbe",
+          "filename": "report.xlsx",
+          "size": 577792,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/e6b42478-d4f9-4cb1-a5d6-b09c3bf6863b.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:40:00Z",
+      "createdAt": "2024-01-15T11:40:00Z",
+      "updatedAt": "2024-01-15T11:40:00Z"
+    },
+    {
+      "id": "email-c278c78c-0dbc-45c3-bc9e-a7769ff87792",
+      "userId": "user-726",
+      "from": "sender27@example.com",
+      "to": "user40@example.com",
+      "subject": "Weekly Report",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-1f8e8c0e-eeac-42a0-a5f1-569a2cf238e3",
+          "emailId": "email-c278c78c-0dbc-45c3-bc9e-a7769ff87792",
+          "filename": "invoice.docx",
+          "size": 3330692,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/69c92505-ae80-4588-ba52-b3ee11696276.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:41:00Z",
+      "createdAt": "2024-01-15T11:41:00Z",
+      "updatedAt": "2024-01-15T11:41:00Z"
+    },
+    {
+      "id": "email-03d1b7c2-7bbe-4af8-a83a-d1d28ba63e8b",
+      "userId": "user-509",
+      "from": "sender47@example.com",
+      "to": "user20@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-f5170135-4c54-4cc2-a220-8bf8f2a101be",
+          "emailId": "email-03d1b7c2-7bbe-4af8-a83a-d1d28ba63e8b",
+          "filename": "invoice.docx",
+          "size": 1229307,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/1e745f2d-e8d3-4c7c-a22e-fcdcdbc0d376.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:42:00Z",
+      "createdAt": "2024-01-15T11:42:00Z",
+      "updatedAt": "2024-01-15T11:42:00Z"
+    },
+    {
+      "id": "email-708b3426-9768-4886-86d9-1d281d5424be",
+      "userId": "user-977",
+      "from": "sender39@example.com",
+      "to": "user37@example.com",
+      "subject": "Project Update",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-1e9e8f7c-c4a3-4534-b4ef-19056cf216eb",
+          "emailId": "email-708b3426-9768-4886-86d9-1d281d5424be",
+          "filename": "invoice.docx",
+          "size": 2600920,
+          "type": "application/pdf",
+          "url": "/uploads/a6961b52-8b71-42c5-ab9d-7bfe94cfc9a3.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "work",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:43:00Z",
+      "createdAt": "2024-01-15T11:43:00Z",
+      "updatedAt": "2024-01-15T11:43:00Z"
+    },
+    {
+      "id": "email-f0657109-a982-4973-a9c1-67bc58ae8e31",
+      "userId": "user-115",
+      "from": "sender19@example.com",
+      "to": "user34@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-95ed2af2-ddf2-44a5-b7fa-d568c026416f",
+          "emailId": "email-f0657109-a982-4973-a9c1-67bc58ae8e31",
+          "filename": "report.xlsx",
+          "size": 3434590,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/dfe1aff2-7393-48c8-82d1-10601d674a09.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "urgent",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:44:00Z",
+      "createdAt": "2024-01-15T11:44:00Z",
+      "updatedAt": "2024-01-15T11:44:00Z"
+    },
+    {
+      "id": "email-9320a619-27cc-4a14-9072-3ebccfa42c77",
+      "userId": "user-990",
+      "from": "sender10@example.com",
+      "to": "user8@example.com",
+      "subject": "Follow Up",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-3ce246bc-3fab-4ebd-b7b7-db91ad6fdfe3",
+          "emailId": "email-9320a619-27cc-4a14-9072-3ebccfa42c77",
+          "filename": "meeting-notes.pdf",
+          "size": 979400,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/78bd83b0-5e8f-4e85-97cf-7a308c192685.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "meeting",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:45:00Z",
+      "createdAt": "2024-01-15T11:45:00Z",
+      "updatedAt": "2024-01-15T11:45:00Z"
+    },
+    {
+      "id": "email-b2ea1b58-82bb-4b31-84ed-0ac5a278903a",
+      "userId": "user-695",
+      "from": "sender11@example.com",
+      "to": "user17@example.com",
+      "subject": "Follow Up",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-82e94e3f-bd5e-4d48-888e-164ae5bbaf29",
+          "emailId": "email-b2ea1b58-82bb-4b31-84ed-0ac5a278903a",
+          "filename": "invoice.docx",
+          "size": 4084219,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/ce111aee-f3d0-4f4f-b972-ebf67934d6e5.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:46:00Z",
+      "createdAt": "2024-01-15T11:46:00Z",
+      "updatedAt": "2024-01-15T11:46:00Z"
+    },
+    {
+      "id": "email-7d0626a9-01e2-4ede-9c37-84480a2c4700",
+      "userId": "user-360",
+      "from": "sender46@example.com",
+      "to": "user42@example.com",
+      "subject": "Invoice Attached",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-bef4e105-dfdc-416e-a17d-34973074ebde",
+          "emailId": "email-7d0626a9-01e2-4ede-9c37-84480a2c4700",
+          "filename": "meeting-notes.pdf",
+          "size": 1815451,
+          "type": "application/pdf",
+          "url": "/uploads/f6b2e961-6e83-4e2e-b65d-2045928d44fe.file"
+        }
+      ],
+      "labels": [
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:47:00Z",
+      "createdAt": "2024-01-15T11:47:00Z",
+      "updatedAt": "2024-01-15T11:47:00Z"
+    },
+    {
+      "id": "email-18f21adf-9da5-4fc3-9dfb-5dbffca0776a",
+      "userId": "user-661",
+      "from": "sender12@example.com",
+      "to": "user29@example.com",
+      "subject": "Project Update",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-52dcaade-a06a-4020-b619-333ab7be5468",
+          "emailId": "email-18f21adf-9da5-4fc3-9dfb-5dbffca0776a",
+          "filename": "presentation.pptx",
+          "size": 1491692,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/d5daedba-dd90-4f00-a4be-406426406ee3.file"
+        }
+      ],
+      "labels": [
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:48:00Z",
+      "createdAt": "2024-01-15T11:48:00Z",
+      "updatedAt": "2024-01-15T11:48:00Z"
+    },
+    {
+      "id": "email-796ef0dd-ff2a-4cde-b09b-f55f3a5da4c5",
+      "userId": "user-419",
+      "from": "sender26@example.com",
+      "to": "user44@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-a720cee6-b65f-4c3b-97e9-1174c99f51fd",
+          "emailId": "email-796ef0dd-ff2a-4cde-b09b-f55f3a5da4c5",
+          "filename": "meeting-notes.pdf",
+          "size": 2293408,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/719dc6b6-257c-46da-898a-fca1823bcb22.file"
+        }
+      ],
+      "labels": [
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:49:00Z",
+      "createdAt": "2024-01-15T11:49:00Z",
+      "updatedAt": "2024-01-15T11:49:00Z"
+    },
+    {
+      "id": "email-3b74ff01-4874-4446-95f7-aa9e27932005",
+      "userId": "user-605",
+      "from": "sender33@example.com",
+      "to": "user36@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-b03697b0-17ea-4180-8c72-69dedcb2d24e",
+          "emailId": "email-3b74ff01-4874-4446-95f7-aa9e27932005",
+          "filename": "invoice.docx",
+          "size": 2236122,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/8681fe8e-a1e8-4749-b257-0ec15313f7ef.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:50:00Z",
+      "createdAt": "2024-01-15T11:50:00Z",
+      "updatedAt": "2024-01-15T11:50:00Z"
+    },
+    {
+      "id": "email-44db5cca-5775-4576-9e74-3df4d22267fa",
+      "userId": "user-781",
+      "from": "sender43@example.com",
+      "to": "user38@example.com",
+      "subject": "Project Update",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-9e037273-4bbd-4218-890e-9c4e36cdf974",
+          "emailId": "email-44db5cca-5775-4576-9e74-3df4d22267fa",
+          "filename": "report.xlsx",
+          "size": 1101482,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/0afbfba9-4204-416b-b65c-0e8ab82adfc0.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "work",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:51:00Z",
+      "createdAt": "2024-01-15T11:51:00Z",
+      "updatedAt": "2024-01-15T11:51:00Z"
+    },
+    {
+      "id": "email-3faf821d-7c1f-472a-8f59-e1649aa0fd27",
+      "userId": "user-869",
+      "from": "sender37@example.com",
+      "to": "user23@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-cf2e1a63-0aa2-4825-ae82-8dd9b0051341",
+          "emailId": "email-3faf821d-7c1f-472a-8f59-e1649aa0fd27",
+          "filename": "invoice.docx",
+          "size": 4195142,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/13bb7141-03ce-4fe1-be86-231cc47e49fa.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:52:00Z",
+      "createdAt": "2024-01-15T11:52:00Z",
+      "updatedAt": "2024-01-15T11:52:00Z"
+    },
+    {
+      "id": "email-e52463d7-12e9-41bd-99f5-5a4318f7663c",
+      "userId": "user-237",
+      "from": "sender6@example.com",
+      "to": "user5@example.com",
+      "subject": "Follow Up",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-c281e76b-d7b6-436c-b7e2-59fc49c0d8fa",
+          "emailId": "email-e52463d7-12e9-41bd-99f5-5a4318f7663c",
+          "filename": "presentation.pptx",
+          "size": 2871293,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/1f5c5ae0-ae92-4fac-be8b-75b68a8ca60d.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "personal",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T11:53:00Z",
+      "createdAt": "2024-01-15T11:53:00Z",
+      "updatedAt": "2024-01-15T11:53:00Z"
+    },
+    {
+      "id": "email-dcd78963-db93-4c04-a0c8-b5d293b0c9f7",
+      "userId": "user-723",
+      "from": "sender21@example.com",
+      "to": "user16@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-e71c95cd-b24a-4389-b74a-6e96c112e6a5",
+          "emailId": "email-dcd78963-db93-4c04-a0c8-b5d293b0c9f7",
+          "filename": "meeting-notes.pdf",
+          "size": 168044,
+          "type": "application/pdf",
+          "url": "/uploads/b4660859-63a4-4cbe-b126-c1d51310873a.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:54:00Z",
+      "createdAt": "2024-01-15T11:54:00Z",
+      "updatedAt": "2024-01-15T11:54:00Z"
+    },
+    {
+      "id": "email-97e26d3d-d902-42bb-ac02-420a44a0a911",
+      "userId": "user-973",
+      "from": "sender48@example.com",
+      "to": "user48@example.com",
+      "subject": "Invoice Attached",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-73f6a8ee-c755-4bb8-9b20-be714a0dab97",
+          "emailId": "email-97e26d3d-d902-42bb-ac02-420a44a0a911",
+          "filename": "meeting-notes.pdf",
+          "size": 2491324,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/fd65c47e-9a86-41ae-b0ff-d831c761bcba.file"
+        }
+      ],
+      "labels": [
+        "finance",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T11:55:00Z",
+      "createdAt": "2024-01-15T11:55:00Z",
+      "updatedAt": "2024-01-15T11:55:00Z"
+    },
+    {
+      "id": "email-c33b4d33-b70d-493d-8aec-f09da6d18588",
+      "userId": "user-347",
+      "from": "sender2@example.com",
+      "to": "user22@example.com",
+      "subject": "Follow Up",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-11a669e1-74b1-4baf-84e5-559d9071f69a",
+          "emailId": "email-c33b4d33-b70d-493d-8aec-f09da6d18588",
+          "filename": "meeting-notes.pdf",
+          "size": 2693980,
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "url": "/uploads/f28bc602-5f1d-4c31-8ce8-3ad65436aad4.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T11:56:00Z",
+      "createdAt": "2024-01-15T11:56:00Z",
+      "updatedAt": "2024-01-15T11:56:00Z"
+    },
+    {
+      "id": "email-039d1b74-ee60-410b-aba5-5d2cb9eb5cf8",
+      "userId": "user-980",
+      "from": "sender19@example.com",
+      "to": "user34@example.com",
+      "subject": "Invoice Attached",
+      "body": "Hi, let's meet tomorrow at 2 PM...",
+      "isRead": false,
+      "isStarred": true,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-7dac3bbe-9772-4c14-975a-2c582eb1475a",
+          "emailId": "email-039d1b74-ee60-410b-aba5-5d2cb9eb5cf8",
+          "filename": "invoice.docx",
+          "size": 1510953,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/5a843e56-aa5e-4f03-8e87-da26d6f68034.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "finance",
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T11:57:00Z",
+      "createdAt": "2024-01-15T11:57:00Z",
+      "updatedAt": "2024-01-15T11:57:00Z"
+    },
+    {
+      "id": "email-8fa893b1-84de-4043-b8e0-a508f1fb691d",
+      "userId": "user-929",
+      "from": "sender35@example.com",
+      "to": "user32@example.com",
+      "subject": "Meeting Tomorrow",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-39da7203-e67d-4729-94a4-43ec3044992d",
+          "emailId": "email-8fa893b1-84de-4043-b8e0-a508f1fb691d",
+          "filename": "report.xlsx",
+          "size": 715023,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/34cfaaeb-1b8d-41e2-b2c1-ac8f6cadc974.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:58:00Z",
+      "createdAt": "2024-01-15T11:58:00Z",
+      "updatedAt": "2024-01-15T11:58:00Z"
+    },
+    {
+      "id": "email-ade489ef-dca0-40c8-aa14-16e0d12779a3",
+      "userId": "user-898",
+      "from": "sender23@example.com",
+      "to": "user2@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-09493c46-03d7-44eb-824b-db8bf0a64749",
+          "emailId": "email-ade489ef-dca0-40c8-aa14-16e0d12779a3",
+          "filename": "presentation.pptx",
+          "size": 2090667,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/c4f6a0eb-ea5d-4417-ab6b-2e3316a8c180.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "finance",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T11:59:00Z",
+      "createdAt": "2024-01-15T11:59:00Z",
+      "updatedAt": "2024-01-15T11:59:00Z"
+    },
+    {
+      "id": "email-acf46d9d-567c-4445-a834-9222ffb3f205",
+      "userId": "user-476",
+      "from": "sender39@example.com",
+      "to": "user20@example.com",
+      "subject": "Project Update",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-1ce87390-29ab-4934-a972-1043113b9658",
+          "emailId": "email-acf46d9d-567c-4445-a834-9222ffb3f205",
+          "filename": "meeting-notes.pdf",
+          "size": 921047,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/97624de7-2a20-49a7-98d4-4f874adae062.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "work"
+      ],
+      "timestamp": "2024-01-15T12:00:00Z",
+      "createdAt": "2024-01-15T12:00:00Z",
+      "updatedAt": "2024-01-15T12:00:00Z"
+    },
+    {
+      "id": "email-cecc0e3e-bacc-4ba5-aca1-817cb90d2fc0",
+      "userId": "user-211",
+      "from": "sender13@example.com",
+      "to": "user5@example.com",
+      "subject": "Project Update",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-0874ace5-688e-491c-aea9-e996385e1453",
+          "emailId": "email-cecc0e3e-bacc-4ba5-aca1-817cb90d2fc0",
+          "filename": "report.xlsx",
+          "size": 566401,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/b6536226-333e-4dd2-972b-22c2ddf8bd07.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T12:01:00Z",
+      "createdAt": "2024-01-15T12:01:00Z",
+      "updatedAt": "2024-01-15T12:01:00Z"
+    },
+    {
+      "id": "email-a2de7271-ad94-4f83-b0ec-d9353e719da8",
+      "userId": "user-988",
+      "from": "sender46@example.com",
+      "to": "user3@example.com",
+      "subject": "Weekly Report",
+      "body": "Following up on our last conversation.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-35eaae4f-9706-492a-8d88-bbb0f5f90970",
+          "emailId": "email-a2de7271-ad94-4f83-b0ec-d9353e719da8",
+          "filename": "report.xlsx",
+          "size": 3886739,
+          "type": "application/pdf",
+          "url": "/uploads/255f65d2-3526-4a9c-857e-edc985794a04.file"
+        }
+      ],
+      "labels": [
+        "finance"
+      ],
+      "timestamp": "2024-01-15T12:02:00Z",
+      "createdAt": "2024-01-15T12:02:00Z",
+      "updatedAt": "2024-01-15T12:02:00Z"
+    },
+    {
+      "id": "email-1cbc6ed9-c26f-4cf9-a649-1b27b9007f64",
+      "userId": "user-228",
+      "from": "sender13@example.com",
+      "to": "user49@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-cca36b42-58c2-4c28-9921-2c13d54c1805",
+          "emailId": "email-1cbc6ed9-c26f-4cf9-a649-1b27b9007f64",
+          "filename": "meeting-notes.pdf",
+          "size": 666524,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/b6b92b25-1012-49d3-9e4a-f2285e793932.file"
+        }
+      ],
+      "labels": [
+        "urgent"
+      ],
+      "timestamp": "2024-01-15T12:03:00Z",
+      "createdAt": "2024-01-15T12:03:00Z",
+      "updatedAt": "2024-01-15T12:03:00Z"
+    },
+    {
+      "id": "email-5308a0d5-9361-4a16-93d4-bedab9c1eab5",
+      "userId": "user-448",
+      "from": "sender40@example.com",
+      "to": "user25@example.com",
+      "subject": "Weekly Report",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-76b15fd1-1def-470e-953b-f3040a1c3ec3",
+          "emailId": "email-5308a0d5-9361-4a16-93d4-bedab9c1eab5",
+          "filename": "meeting-notes.pdf",
+          "size": 2544993,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/ba989e69-b31d-458c-a9f8-5826366790aa.file"
+        }
+      ],
+      "labels": [
+        "personal",
+        "finance"
+      ],
+      "timestamp": "2024-01-15T12:04:00Z",
+      "createdAt": "2024-01-15T12:04:00Z",
+      "updatedAt": "2024-01-15T12:04:00Z"
+    },
+    {
+      "id": "email-38588d47-0224-4efe-9b1e-e89a6d78ad5a",
+      "userId": "user-238",
+      "from": "sender34@example.com",
+      "to": "user7@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-28e4a0c2-c344-448d-8dd5-d583ac1c2da4",
+          "emailId": "email-38588d47-0224-4efe-9b1e-e89a6d78ad5a",
+          "filename": "meeting-notes.pdf",
+          "size": 4641346,
+          "type": "application/pdf",
+          "url": "/uploads/97cfe90a-2bb2-4017-8490-a6a366d07eb2.file"
+        }
+      ],
+      "labels": [
+        "personal"
+      ],
+      "timestamp": "2024-01-15T12:05:00Z",
+      "createdAt": "2024-01-15T12:05:00Z",
+      "updatedAt": "2024-01-15T12:05:00Z"
+    },
+    {
+      "id": "email-7b14ff02-f6de-4f70-b98e-403c12cf92cc",
+      "userId": "user-947",
+      "from": "sender7@example.com",
+      "to": "user37@example.com",
+      "subject": "Follow Up",
+      "body": "Following up on our last conversation.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-bb3ca40c-7ced-4271-bdff-54416ea60957",
+          "emailId": "email-7b14ff02-f6de-4f70-b98e-403c12cf92cc",
+          "filename": "invoice.docx",
+          "size": 2686712,
+          "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "/uploads/da28c57a-eb77-4e0a-91e3-d7366d246a22.file"
+        }
+      ],
+      "labels": [
+        "meeting",
+        "urgent",
+        "work"
+      ],
+      "timestamp": "2024-01-15T12:06:00Z",
+      "createdAt": "2024-01-15T12:06:00Z",
+      "updatedAt": "2024-01-15T12:06:00Z"
+    },
+    {
+      "id": "email-57377b8b-8473-4651-a6b0-2726a0c3eb0e",
+      "userId": "user-298",
+      "from": "sender38@example.com",
+      "to": "user3@example.com",
+      "subject": "Follow Up",
+      "body": "Please find the project update attached.",
+      "isRead": true,
+      "isStarred": true,
+      "isImportant": true,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-74751d07-adf7-4566-80d1-a6acdb19a61b",
+          "emailId": "email-57377b8b-8473-4651-a6b0-2726a0c3eb0e",
+          "filename": "report.xlsx",
+          "size": 256856,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/5986e053-53a1-49a4-96ff-119eb235599e.file"
+        }
+      ],
+      "labels": [
+        "work"
+      ],
+      "timestamp": "2024-01-15T12:07:00Z",
+      "createdAt": "2024-01-15T12:07:00Z",
+      "updatedAt": "2024-01-15T12:07:00Z"
+    },
+    {
+      "id": "email-8de47cfe-0ead-4488-8fbc-6d2b7376068f",
+      "userId": "user-255",
+      "from": "sender5@example.com",
+      "to": "user39@example.com",
+      "subject": "Invoice Attached",
+      "body": "This week's report is ready.",
+      "isRead": true,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-b231bed1-8ee1-4e5f-bda1-05043c688d5b",
+          "emailId": "email-8de47cfe-0ead-4488-8fbc-6d2b7376068f",
+          "filename": "invoice.docx",
+          "size": 2833879,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/a62e104f-195e-495d-80fc-77e80ec0327c.file"
+        }
+      ],
+      "labels": [
+        "work",
+        "personal"
+      ],
+      "timestamp": "2024-01-15T12:08:00Z",
+      "createdAt": "2024-01-15T12:08:00Z",
+      "updatedAt": "2024-01-15T12:08:00Z"
+    },
+    {
+      "id": "email-efcf3dd5-7170-45db-ae90-3e5b820f886a",
+      "userId": "user-386",
+      "from": "sender28@example.com",
+      "to": "user22@example.com",
+      "subject": "Weekly Report",
+      "body": "Please find the project update attached.",
+      "isRead": false,
+      "isStarred": false,
+      "isImportant": false,
+      "hasAttachments": true,
+      "attachments": [
+        {
+          "id": "att-870344d1-8041-4efc-9173-604438412e1a",
+          "emailId": "email-efcf3dd5-7170-45db-ae90-3e5b820f886a",
+          "filename": "meeting-notes.pdf",
+          "size": 4586169,
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "url": "/uploads/3e54c9ba-fc7f-4565-bbad-32180cedc309.file"
+        }
+      ],
+      "labels": [
+        "urgent",
+        "meeting"
+      ],
+      "timestamp": "2024-01-15T12:09:00Z",
+      "createdAt": "2024-01-15T12:09:00Z",
+      "updatedAt": "2024-01-15T12:09:00Z"
+    }
+  ]
+}

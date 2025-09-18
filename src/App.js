@@ -8,9 +8,19 @@ import './App.css';
 import MarketingDashboard from "./pages/MarketingDashboard";
 import AppLayout from "./AppLayout";
 import EmailDashboard from "./pages/EmailDashboard";
+import { useEffect } from "react";
+import { fetchUserProfile } from "./store/user copy/thunkCreators";
+import { fetchEmails } from "./store/emails/thunkCreators";
 
 function App() {
-  
+  const dispatch = useDispatch()
+
+  const { emails, isLoading } = useSelector((state) => state.emails)
+
+  useEffect(() => {
+    // dispatch(fetchEmails())
+    dispatch(fetchUserProfile())
+  }, [])
 
   return (
     <div className="App">
@@ -31,7 +41,7 @@ function App() {
         <Route path="auth/register" element={<RegisterPage />} />
         <Route path="/" element={<AppLayout />}>
             <Route index element= {<MarketingDashboard />} />
-            <Route path="emails" element={<EmailDashboard />} />
+            <Route path="app/emails" element={<EmailDashboard emails={emails} isLoading={isLoading} />} />
         </Route>
       </Routes>
     </div>

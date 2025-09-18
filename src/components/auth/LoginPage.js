@@ -30,7 +30,7 @@ const LoginPage = () => {
 
   useEffect(() => {
     if (isSignedIn) {
-      navigate("/", { replace: true });
+      navigate("/app/emails", { replace: true });
     }
   }, [isSignedIn, navigate]);
 
@@ -67,12 +67,6 @@ const LoginPage = () => {
               name="password"
               handle={handleInput}
             />
-            <span
-              className="position-relative bottom-25 fw-semibold"
-              style={{ fontSize: "12px", cursor: "pointer" }}
-            >
-              Forgot Password?
-            </span>
           </div>
 
           <Submit title="Login" loading={isLoading} />
