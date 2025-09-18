@@ -1,4 +1,5 @@
 # 📖 Email Dashboard <a name="about-project"></a>
+# 📖 Email Dashboard <a name="about-project"></a>
 
 This project is an Email dashboard replica built with React and JavaScript. It replicates a Gmail-like UI with a sidebar navigation,a searchable inbox, starred filtering, and server-side implemented pagination.
 
@@ -59,7 +60,7 @@ Run tests
 
 Add test runner when available, e.g. jest or vitest.
 
-## Deployment
+# ## Deployment
 
 You can deploy using Vercel, Netlify, or GitHub Pages.
 
@@ -98,7 +99,7 @@ Faster rendering performance on large inboxes.
 
 Accurate results with filtering and searching.
 
-## ⚖️ Tradeoffs, Performance Decisions & Assumptions
+# ## ⚖️ Tradeoffs, Performance Decisions & Assumptions
 Tradeoffs
 
 Used server-side pagination: This help with better scalability vs. slightly higher API complexity.
