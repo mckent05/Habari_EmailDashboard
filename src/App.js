@@ -4,27 +4,25 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import LoginPage from "./components/auth/LoginPage";
 import RegisterPage from "./components/auth/RegisterPage";
-import './App.css';
+import "./App.css";
 import MarketingDashboard from "./pages/MarketingDashboard";
 import AppLayout from "./AppLayout";
 import EmailDashboard from "./pages/EmailDashboard";
 import { useEffect } from "react";
-import { fetchUserProfile } from "./store/user copy/thunkCreators";
-import { fetchEmails } from "./store/emails/thunkCreators";
+import { fetchUserProfile } from "./store/user/thunkCreators";
 
 function App() {
-  const dispatch = useDispatch()
+  const dispatch = useDispatch();
 
-  const { emails, isLoading } = useSelector((state) => state.emails)
+  const { emails, isLoading } = useSelector((state) => state.emails);
 
   useEffect(() => {
-    // dispatch(fetchEmails())
-    dispatch(fetchUserProfile())
-  }, [])
+    dispatch(fetchUserProfile());
+  }, []);
 
   return (
     <div className="App">
-       <ToastContainer
+      <ToastContainer
         position="top-right"
         autoClose={3000}
         hideProgressBar={false}
@@ -34,14 +32,14 @@ function App() {
         draggable
       />
       <Routes>
-         <Route
-          path="auth/login"
-          element={<LoginPage />}
-        />
+        <Route path="auth/login" element={<LoginPage />} />
         <Route path="auth/register" element={<RegisterPage />} />
         <Route path="/" element={<AppLayout />}>
-            <Route index element= {<MarketingDashboard />} />
-            <Route path="app/emails" element={<EmailDashboard emails={emails} isLoading={isLoading} />} />
+          <Route index element={<MarketingDashboard />} />
+          <Route
+            path="app/emails"
+            element={<EmailDashboard emails={emails} isLoading={isLoading} />}
+          />
         </Route>
       </Routes>
     </div>

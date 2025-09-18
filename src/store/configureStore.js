@@ -3,7 +3,7 @@ import logger from "redux-logger";
 import { thunk } from "redux-thunk";
 import authReducer from "./auth/authSlice";
 import emailReducer from "./emails/emailSlice"
-import userReducer from "./user copy/userSlice"
+import userReducer from "./user/userSlice"
 
 
 const reducer = combineReducers({
