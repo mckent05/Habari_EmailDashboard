@@ -10,6 +10,7 @@ import AppLayout from "./AppLayout";
 import EmailDashboard from "./pages/EmailDashboard";
 import { useEffect } from "react";
 import { fetchUserProfile } from "./store/user/thunkCreators";
+import { fetchUnreadCount } from "./store/emails/thunkCreators";
 
 function App() {
   const dispatch = useDispatch();
@@ -17,6 +18,7 @@ function App() {
   const { emails, isLoading } = useSelector((state) => state.emails);
 
   useEffect(() => {
+    dispatch(fetchUnreadCount())
     dispatch(fetchUserProfile());
   }, []);
 

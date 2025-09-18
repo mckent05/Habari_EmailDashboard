@@ -1,5 +1,4 @@
 import React, { useState, useMemo } from "react";
-import { useDispatch } from "react-redux";
 import { useQuery } from "@tanstack/react-query";
 import MainHeader from "../components/email/MainHeader";
 import Sidebar from "../components/email/SideBar";
@@ -37,10 +36,6 @@ const EmailDashboard = () => {
   const totalLength = data?.pagination.total || 0;
   const totalPages = data?.pagination.totalPages;
 
-  if (isLoading) {
-    return <div className="p-4 d-flex is_loading">Loading emails...</div>;
-  }
-
   return (
     <div className="d-flex dashboard_cont">
       <Sidebar handleFilter={setIsStarred} />
@@ -55,7 +50,7 @@ const EmailDashboard = () => {
           onPageChange={setCurrentPage}
           pageSize={PAGE_SIZE}
         />
-        <EmailList emails={emails} />
+        <EmailList emails={emails} isLoading={isLoading} />
       </div>
     </div>
   );
