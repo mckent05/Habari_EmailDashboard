@@ -1,12 +1,6 @@
 import React from "react";
 
-const EmailInfo = ({
-  subject,
-  body,
-  createdAt,
-  hasAttachments,
-  isStarred,
-}) => {
+const EmailInfo = ({ subject, body, createdAt, hasAttachments, isStarred }) => {
   const formatDate = (dateString) => {
     if (!dateString) return "";
 
@@ -49,7 +43,11 @@ const EmailInfo = ({
 
         {/* Star */}
         <span className="me-3" style={{ fontSize: "1.1rem" }}>
-          {isStarred ? <i className="bi bi-star-fill text-warning"></i> : <i className="bi bi-star-fill"></i>}
+          {isStarred ? (
+            <i className="bi bi-star-fill text-warning"></i>
+          ) : (
+            <i className="bi bi-star-fill"></i>
+          )}
         </span>
 
         {/* Email Content */}

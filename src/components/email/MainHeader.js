@@ -2,7 +2,6 @@ import React from "react";
 import SearchFilter from "./SearchFilter";
 import Pagination from "./pagination";
 
-
 function MainHeader({
   searchQuery,
   onSearch,
@@ -11,7 +10,7 @@ function MainHeader({
   totalPages,
   emailLength,
   totalLength,
-  pageSize
+  pageSize,
 }) {
   return (
     <div>

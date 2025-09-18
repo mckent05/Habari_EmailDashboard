@@ -1,70 +1,159 @@
-# Getting Started with Create React App
+📖 Email Dashboard <a name="about-project"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a modular and responsive email dashboard built with React and JavaScript. It replicates a Gmail-like UI with sidebar navigation, a searchable inbox, starred filtering, and server-side pagination.
 
-## Available Scripts
+The goal was to design a scalable frontend that can fetch and display large sets of emails efficiently while staying responsive across devices.
 
-In the project directory, you can run:
+🛠 Built With <a name="built-with"></a>
+Tech Stack <a name="tech-stack"></a>
+<details> <summary>Client</summary> <ul> <li><a href="https://react.dev/">React.js</a></li> <li><a href="https://getbootstrap.com/">Bootstrap 5</a></li> <li><a href="https://tanstack.com/query/latest">TanStack React Query</a></li> <li><a href="https://redux.js.org/">Redux</a></li> </ul> </details> <details> <summary>Server</summary> <ul> <li>Generic REST API (assumed Express/Node backend)</li> </ul> </details>
+Key Features <a name="key-features"></a>
 
-### `npm start`
+📩 Email Inbox UI — Sidebar navigation (Inbox, Sent, Drafts, Starred, Labels).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔍 Search with Debounce — Avoids unnecessary requests by waiting for typing to stop.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+⭐ Starred Filter — Shows only starred emails when enabled (optional param).
 
-### `npm test`
+📑 Server-side Pagination — Efficiently loads data in chunks, not all at once.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📱 Responsive Layout — Sidebar collapses into an off-canvas menu on mobile.
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+🚀 Live Demo <a name="live-demo"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Replace with your deployed link.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Live Demo Link
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+💻 Getting Started <a name="getting-started"></a>
+Prerequisites
 
-### `npm run eject`
+You need the following installed:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Node.js >= 16
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm or yarn
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone this repository to your local machine:
 
-## Learn More
+  git clone git@github.com:your-username/email-dashboard.git
+  cd email-dashboard
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Install dependencies:
 
-### Code Splitting
+  npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Usage
 
-### Analyzing the Bundle Size
+Run the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  npm start
 
-### Making a Progressive Web App
+Run tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Add test runner when available, e.g. jest or vitest.
 
-### Advanced Configuration
+Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+You can deploy using Vercel, Netlify, or GitHub Pages.
 
-### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+⚡ Server-Side Pagination Approach
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Instead of loading all emails into memory, the dashboard requests only a slice of the dataset per page.
 
-### `npm run build` fails to minify
+Frontend sends:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+/api/emails?page=2&limit=15&search=hello&filter=inbox
+
+
+Backend responds with:
+
+{
+  "data": [...15 emails...],
+  "pagination": {
+    "page": 2,
+    "limit": 15,
+    "total": 165,
+    "totalPages": 11
+  }
+}
+
+
+The UI shows start – end of total and updates navigation buttons accordingly.
+
+isStarred is only sent when true, reducing unnecessary query params.
+
+This approach ensures:
+
+Lower network usage (only fetch what’s needed).
+
+Faster rendering performance on large inboxes.
+
+Accurate results with filtering and searching.
+
+⚖️ Tradeoffs, Performance Decisions & Assumptions
+Tradeoffs
+
+Used server-side pagination: better scalability vs. slightly higher API complexity.
+
+Sidebar is always visible on desktop but collapsible on mobile (tradeoff between simplicity and Gmail-like functionality).
+
+Chose Bootstrap over custom CSS frameworks: faster dev time but less design flexibility.
+
+Performance Decisions
+
+Added debounce (3s) for search to avoid excessive API calls.
+
+Implemented keepPreviousData in React Query so pages don’t blank out during transitions.
+
+Optional isStarred param → reduces unnecessary backend filtering when not needed.
+
+Assumptions
+
+API is capable of handling queries with page, limit, search, filter, and isStarred.
+
+Backend handles filtering and searching efficiently (e.g., via indexed DB queries).
+
+Emails dataset can be large, so pagination is necessary.
+
+👥 Authors <a name="authors"></a>
+
+👤 Your Name
+
+GitHub: @yourhandle
+
+LinkedIn: Your LinkedIn
+
+🔭 Future Features <a name="future-features"></a>
+
+ Bulk actions (archive, delete, mark as read/unread).
+
+ Email details preview pane.
+
+ Infinite scroll option as alternative to pagination.
+
+🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+Please check the issues page
+.
+
+⭐️ Show your support <a name="support"></a>
+
+If you found this helpful, please ⭐ the repo and share with others!
+
+🙏 Acknowledgements <a name="acknowledgements"></a>
+
+Special thanks to open-source contributors of React Query, Bootstrap, and React for making development easier.
+
+📝 License <a name="license"></a>
+
+This project is MIT
+ licensed.
