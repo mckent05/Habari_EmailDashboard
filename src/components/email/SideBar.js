@@ -33,7 +33,7 @@ function Sidebar({ handleFilter }) {
           <i className="bi bi-person-circle fs-2 me-3"></i>
         )}
         <div>
-          <h6 className="mb-0">{user?.name || "Temitope"}</h6>
+          <h6 className="mb-0">{user?.name || "User"}</h6>
           <p className="text-muted mb-0" style={{ fontSize: "0.85rem" }}>
             Web developer
           </p>

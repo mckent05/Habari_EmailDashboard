@@ -3,7 +3,7 @@ import useDebounce from "../../utils/debounceHelper";
 
 const SearchFilter = ({ onSearch, initialValue = "" }) => {
   const [inputValue, setInputValue] = useState(initialValue);
-  const debouncedValue = useDebounce(inputValue, 3000);
+  const debouncedValue = useDebounce(inputValue, 500);
 
   useEffect(() => {
     onSearch(debouncedValue);

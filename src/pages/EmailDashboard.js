@@ -15,7 +15,7 @@ const EmailDashboard = () => {
   const [isStarred, setIsStarred] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
 
-  const debouncedSearch = useDebounce(searchQuery, 3000);
+  const debouncedSearch = useDebounce(searchQuery, 500);
 
   const queryParams = {
     search: debouncedSearch,
