@@ -11,10 +11,34 @@ const MarketingDashboard = () => {
   const [range, setRange] = useState("7d");
 
   const stats = [
-    { title: "Total Spend", value: "$8,765", previous: "$10,234", progress: "-14.32%", positive: false },
-    { title: "Visitor", value: "14,321", previous: "12,548", progress: "+14.23%", positive: true },
-    { title: "Acquisition", value: "1,023", previous: "876", progress: "+16.78%", positive: true },
-    { title: "Revenue", value: "$18,765", previous: "$15,432", progress: "+21.67%", positive: true },
+    {
+      title: "Total Spend",
+      value: "$8,765",
+      previous: "$10,234",
+      progress: "-14.32%",
+      positive: false,
+    },
+    {
+      title: "Visitor",
+      value: "14,321",
+      previous: "12,548",
+      progress: "+14.23%",
+      positive: true,
+    },
+    {
+      title: "Acquisition",
+      value: "1,023",
+      previous: "876",
+      progress: "+16.78%",
+      positive: true,
+    },
+    {
+      title: "Revenue",
+      value: "$18,765",
+      previous: "$15,432",
+      progress: "+21.67%",
+      positive: true,
+    },
   ];
 
   const lineDataAll = [
@@ -35,7 +59,10 @@ const MarketingDashboard = () => {
     { date: "March 15", acquisition: 800, cost: 1000 },
   ];
 
-  const barDataAll = lineDataAll.map(d => ({ date: d.date, traffic: d.acquisition / 5 }));
+  const barDataAll = lineDataAll.map((d) => ({
+    date: d.date,
+    traffic: d.acquisition / 5,
+  }));
 
   const lineData = useMemo(() => {
     if (range === "7d") return lineDataAll.slice(0, 7);
@@ -50,7 +77,12 @@ const MarketingDashboard = () => {
   }, [range]);
 
   const progressData = [
-    { platform: "Facebook", remaining: "12,345", percent: 60, variant: "success" },
+    {
+      platform: "Facebook",
+      remaining: "12,345",
+      percent: 60,
+      variant: "success",
+    },
     { platform: "X", remaining: "1,543", percent: 86, variant: "success" },
     { platform: "Google", remaining: "5,678", percent: 67, variant: "success" },
     { platform: "TikTok", remaining: "3,456", percent: 21, variant: "warning" },

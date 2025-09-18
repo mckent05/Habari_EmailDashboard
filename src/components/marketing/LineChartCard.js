@@ -21,8 +21,18 @@ const LineChartCard = ({ data }) => {
             <XAxis dataKey="date" />
             <YAxis />
             <Tooltip />
-            <Line type="monotone" dataKey="acquisition" stroke="#28a745" strokeWidth={2} />
-            <Line type="monotone" dataKey="cost" stroke="#007bff" strokeWidth={2} />
+            <Line
+              type="monotone"
+              dataKey="acquisition"
+              stroke="#28a745"
+              strokeWidth={2}
+            />
+            <Line
+              type="monotone"
+              dataKey="cost"
+              stroke="#007bff"
+              strokeWidth={2}
+            />
           </LineChart>
         </ResponsiveContainer>
       </Card.Body>

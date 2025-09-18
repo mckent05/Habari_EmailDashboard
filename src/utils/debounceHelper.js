@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
 export const DebounceHelper = (value, delay) => {
   const [debouncedValue, setDebouncedValue] = useState(value);
@@ -16,4 +16,4 @@ export const DebounceHelper = (value, delay) => {
   return debouncedValue;
 };
 
-export default DebounceHelper
+export default DebounceHelper;

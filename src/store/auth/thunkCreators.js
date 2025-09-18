@@ -25,7 +25,7 @@ export const handleSignIn = createAsyncThunk(
     if (response.success) {
       const {
         data: { token },
-        message
+        message,
       } = response;
       localStorage.setItem("user-token", JSON.stringify(token));
       localStorage.setItem("session", true);

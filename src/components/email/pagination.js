@@ -6,7 +6,7 @@ const Pagination = ({
   onPageChange,
   emailLength,
   totalLength,
-  pageSize
+  pageSize,
 }) => {
   if (totalPages <= 1) return null;
 

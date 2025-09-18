@@ -1,12 +1,12 @@
-import React from 'react'
-import { useSelector } from 'react-redux';
+import React from "react";
+import { useSelector } from "react-redux";
 import { Navigate, Outlet } from "react-router-dom";
-import NavBar from './components/navbar/NavBar';
+import NavBar from "./components/navbar/NavBar";
 
 const AppLayout = () => {
-  const { isSignedIn } = useSelector((state) => state.auth)
+  const { isSignedIn } = useSelector((state) => state.auth);
 
-   if (!isSignedIn) {
+  if (!isSignedIn) {
     return <Navigate to="/auth/login" replace />;
   }
   return (
@@ -14,7 +14,7 @@ const AppLayout = () => {
       <NavBar />
       <Outlet />
     </div>
-  )
-}
+  );
+};
 
-export default AppLayout
+export default AppLayout;

@@ -21,11 +21,7 @@
           "url": "/uploads/58763c6c-573f-426f-9182-ead8c01e708a.file"
         }
       ],
-      "labels": [
-        "personal",
-        "finance",
-        "meeting"
-      ],
+      "labels": ["personal", "finance", "meeting"],
       "timestamp": "2024-01-15T10:30:00Z",
       "createdAt": "2025-09-18T01:30:00Z",
       "updatedAt": "2024-01-15T10:30:00Z"
@@ -51,11 +47,7 @@
           "url": "/uploads/3ad83325-a4fb-4177-8d9e-45ec4dfef769.file"
         }
       ],
-      "labels": [
-        "work",
-        "urgent",
-        "meeting"
-      ],
+      "labels": ["work", "urgent", "meeting"],
       "timestamp": "2024-01-15T10:31:00Z",
       "createdAt": "2025-09-17T10:31:00Z",
       "updatedAt": "2024-01-15T10:31:00Z"
@@ -81,11 +73,7 @@
           "url": "/uploads/550c5aa2-d73a-49c0-9ce3-91d01d951d64.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "urgent",
-        "work"
-      ],
+      "labels": ["meeting", "urgent", "work"],
       "timestamp": "2024-01-15T10:32:00Z",
       "createdAt": "2024-01-15T10:32:00Z",
       "updatedAt": "2024-01-15T10:32:00Z"
@@ -111,9 +99,7 @@
           "url": "/uploads/18424a40-bd7b-4dc3-ac6c-078ff6573d76.file"
         }
       ],
-      "labels": [
-        "finance"
-      ],
+      "labels": ["finance"],
       "timestamp": "2024-01-15T10:33:00Z",
       "createdAt": "2024-01-15T10:33:00Z",
       "updatedAt": "2024-01-15T10:33:00Z"
@@ -139,11 +125,7 @@
           "url": "/uploads/bc69d385-e605-4422-8012-03f7a053bb87.file"
         }
       ],
-      "labels": [
-        "work",
-        "meeting",
-        "personal"
-      ],
+      "labels": ["work", "meeting", "personal"],
       "timestamp": "2024-01-15T10:34:00Z",
       "createdAt": "2024-01-15T10:34:00Z",
       "updatedAt": "2024-01-15T10:34:00Z"
@@ -169,9 +151,7 @@
           "url": "/uploads/a831b960-5f18-42a1-92a7-1361941a39f2.file"
         }
       ],
-      "labels": [
-        "urgent"
-      ],
+      "labels": ["urgent"],
       "timestamp": "2024-01-15T10:35:00Z",
       "createdAt": "2024-01-15T10:35:00Z",
       "updatedAt": "2024-01-15T10:35:00Z"
@@ -197,11 +177,7 @@
           "url": "/uploads/8b16f241-3c0b-421b-9973-b6716749cdc5.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "personal",
-        "urgent"
-      ],
+      "labels": ["meeting", "personal", "urgent"],
       "timestamp": "2024-01-15T10:36:00Z",
       "createdAt": "2024-01-15T10:36:00Z",
       "updatedAt": "2024-01-15T10:36:00Z"
@@ -227,10 +203,7 @@
           "url": "/uploads/935fb4c9-2ab0-449e-9e3a-22ad0cb924df.file"
         }
       ],
-      "labels": [
-        "personal",
-        "finance"
-      ],
+      "labels": ["personal", "finance"],
       "timestamp": "2024-01-15T10:37:00Z",
       "createdAt": "2024-01-15T10:37:00Z",
       "updatedAt": "2024-01-15T10:37:00Z"
@@ -256,9 +229,7 @@
           "url": "/uploads/e9bf49fa-ede5-4ae2-87f1-71f29245f3c8.file"
         }
       ],
-      "labels": [
-        "meeting"
-      ],
+      "labels": ["meeting"],
       "timestamp": "2024-01-15T10:38:00Z",
       "createdAt": "2024-01-15T10:38:00Z",
       "updatedAt": "2024-01-15T10:38:00Z"
@@ -284,11 +255,7 @@
           "url": "/uploads/6c872d0c-2c79-446d-a0d5-04ede96f924b.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "finance",
-        "personal"
-      ],
+      "labels": ["urgent", "finance", "personal"],
       "timestamp": "2024-01-15T10:39:00Z",
       "createdAt": "2024-01-15T10:39:00Z",
       "updatedAt": "2024-01-15T10:39:00Z"
@@ -314,10 +281,7 @@
           "url": "/uploads/b469c668-c6f7-47a1-8f0e-4cf539f8e991.file"
         }
       ],
-      "labels": [
-        "work",
-        "personal"
-      ],
+      "labels": ["work", "personal"],
       "timestamp": "2024-01-15T10:40:00Z",
       "createdAt": "2024-01-15T10:40:00Z",
       "updatedAt": "2024-01-15T10:40:00Z"
@@ -343,10 +307,7 @@
           "url": "/uploads/ab2b4bec-0dd0-48e0-a048-04f70673ed8d.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "finance"
-      ],
+      "labels": ["meeting", "finance"],
       "timestamp": "2024-01-15T10:41:00Z",
       "createdAt": "2024-01-15T10:41:00Z",
       "updatedAt": "2024-01-15T10:41:00Z"
@@ -372,11 +333,7 @@
           "url": "/uploads/ab107edd-277c-42a1-8143-6817f2499a20.file"
         }
       ],
-      "labels": [
-        "finance",
-        "urgent",
-        "meeting"
-      ],
+      "labels": ["finance", "urgent", "meeting"],
       "timestamp": "2024-01-15T10:42:00Z",
       "createdAt": "2024-01-15T10:42:00Z",
       "updatedAt": "2024-01-15T10:42:00Z"
@@ -402,11 +359,7 @@
           "url": "/uploads/d25b3c45-412d-442b-af4b-5397c04f6fb7.file"
         }
       ],
-      "labels": [
-        "finance",
-        "urgent",
-        "work"
-      ],
+      "labels": ["finance", "urgent", "work"],
       "timestamp": "2024-01-15T10:43:00Z",
       "createdAt": "2024-01-15T10:43:00Z",
       "updatedAt": "2024-01-15T10:43:00Z"
@@ -432,10 +385,7 @@
           "url": "/uploads/d1099efd-3a63-4c4c-8e29-02b9735b04de.file"
         }
       ],
-      "labels": [
-        "personal",
-        "work"
-      ],
+      "labels": ["personal", "work"],
       "timestamp": "2024-01-15T10:44:00Z",
       "createdAt": "2024-01-15T10:44:00Z",
       "updatedAt": "2024-01-15T10:44:00Z"
@@ -461,10 +411,7 @@
           "url": "/uploads/4cf90d48-4a28-4cfc-9732-4def6653e48f.file"
         }
       ],
-      "labels": [
-        "work",
-        "urgent"
-      ],
+      "labels": ["work", "urgent"],
       "timestamp": "2024-01-15T10:45:00Z",
       "createdAt": "2024-01-15T10:45:00Z",
       "updatedAt": "2024-01-15T10:45:00Z"
@@ -490,9 +437,7 @@
           "url": "/uploads/8c3851b7-d401-4b08-b4b0-4bb0143bbef0.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T10:46:00Z",
       "createdAt": "2024-01-15T10:46:00Z",
       "updatedAt": "2024-01-15T10:46:00Z"
@@ -518,10 +463,7 @@
           "url": "/uploads/93516340-4feb-4848-ab5b-6d964172bce0.file"
         }
       ],
-      "labels": [
-        "finance",
-        "personal"
-      ],
+      "labels": ["finance", "personal"],
       "timestamp": "2024-01-15T10:47:00Z",
       "createdAt": "2024-01-15T10:47:00Z",
       "updatedAt": "2024-01-15T10:47:00Z"
@@ -547,10 +489,7 @@
           "url": "/uploads/baa38a23-414e-4915-af42-1f57f1c565c9.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "personal"
-      ],
+      "labels": ["meeting", "personal"],
       "timestamp": "2024-01-15T10:48:00Z",
       "createdAt": "2024-01-15T10:48:00Z",
       "updatedAt": "2024-01-15T10:48:00Z"
@@ -576,11 +515,7 @@
           "url": "/uploads/90ce187c-38ab-4d8e-9ea3-f152ce53b7b7.file"
         }
       ],
-      "labels": [
-        "work",
-        "finance",
-        "meeting"
-      ],
+      "labels": ["work", "finance", "meeting"],
       "timestamp": "2024-01-15T10:49:00Z",
       "createdAt": "2024-01-15T10:49:00Z",
       "updatedAt": "2024-01-15T10:49:00Z"
@@ -606,9 +541,7 @@
           "url": "/uploads/3c573ec1-f0e8-435a-98aa-3f726371c42d.file"
         }
       ],
-      "labels": [
-        "finance"
-      ],
+      "labels": ["finance"],
       "timestamp": "2024-01-15T10:50:00Z",
       "createdAt": "2024-01-15T10:50:00Z",
       "updatedAt": "2024-01-15T10:50:00Z"
@@ -634,9 +567,7 @@
           "url": "/uploads/83baf6f0-8082-4fa1-8c43-78bc00d2dc92.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T10:51:00Z",
       "createdAt": "2024-01-15T10:51:00Z",
       "updatedAt": "2024-01-15T10:51:00Z"
@@ -662,11 +593,7 @@
           "url": "/uploads/4c62bbeb-1a11-4c51-8093-afa3cce08500.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "meeting",
-        "finance"
-      ],
+      "labels": ["urgent", "meeting", "finance"],
       "timestamp": "2024-01-15T10:52:00Z",
       "createdAt": "2024-01-15T10:52:00Z",
       "updatedAt": "2024-01-15T10:52:00Z"
@@ -692,9 +619,7 @@
           "url": "/uploads/4dd77607-b32b-4da8-822f-b3e7725335be.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T10:53:00Z",
       "createdAt": "2024-01-15T10:53:00Z",
       "updatedAt": "2024-01-15T10:53:00Z"
@@ -720,9 +645,7 @@
           "url": "/uploads/bafcf56c-c7cc-4e5c-86e4-0c34cf4eb93d.file"
         }
       ],
-      "labels": [
-        "meeting"
-      ],
+      "labels": ["meeting"],
       "timestamp": "2024-01-15T10:54:00Z",
       "createdAt": "2024-01-15T10:54:00Z",
       "updatedAt": "2024-01-15T10:54:00Z"
@@ -748,9 +671,7 @@
           "url": "/uploads/9896f20d-15eb-47a1-8ba9-6ec26b8292ca.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T10:55:00Z",
       "createdAt": "2024-01-15T10:55:00Z",
       "updatedAt": "2024-01-15T10:55:00Z"
@@ -776,10 +697,7 @@
           "url": "/uploads/ddfc4ca2-c2ad-4072-84cc-ccd87de97603.file"
         }
       ],
-      "labels": [
-        "personal",
-        "finance"
-      ],
+      "labels": ["personal", "finance"],
       "timestamp": "2024-01-15T10:56:00Z",
       "createdAt": "2024-01-15T10:56:00Z",
       "updatedAt": "2024-01-15T10:56:00Z"
@@ -805,10 +723,7 @@
           "url": "/uploads/fc836b95-4d48-4b30-b272-aa06cfafd1c9.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "urgent"
-      ],
+      "labels": ["meeting", "urgent"],
       "timestamp": "2024-01-15T10:57:00Z",
       "createdAt": "2024-01-15T10:57:00Z",
       "updatedAt": "2024-01-15T10:57:00Z"
@@ -834,9 +749,7 @@
           "url": "/uploads/a025753c-7cfb-40ec-ad55-b9a7856d2643.file"
         }
       ],
-      "labels": [
-        "meeting"
-      ],
+      "labels": ["meeting"],
       "timestamp": "2024-01-15T10:58:00Z",
       "createdAt": "2024-01-15T10:58:00Z",
       "updatedAt": "2024-01-15T10:58:00Z"
@@ -862,11 +775,7 @@
           "url": "/uploads/35fae7c4-75f6-4bba-8b7d-1f4740360100.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "work",
-        "meeting"
-      ],
+      "labels": ["urgent", "work", "meeting"],
       "timestamp": "2024-01-15T10:59:00Z",
       "createdAt": "2024-01-15T10:59:00Z",
       "updatedAt": "2024-01-15T10:59:00Z"
@@ -892,10 +801,7 @@
           "url": "/uploads/44aa5ddb-dc95-4360-8bd8-16e060f7c9bd.file"
         }
       ],
-      "labels": [
-        "finance",
-        "meeting"
-      ],
+      "labels": ["finance", "meeting"],
       "timestamp": "2024-01-15T11:00:00Z",
       "createdAt": "2024-01-15T11:00:00Z",
       "updatedAt": "2024-01-15T11:00:00Z"
@@ -921,11 +827,7 @@
           "url": "/uploads/94044d43-8886-4835-8485-f09e95604e17.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "personal",
-        "urgent"
-      ],
+      "labels": ["meeting", "personal", "urgent"],
       "timestamp": "2024-01-15T11:01:00Z",
       "createdAt": "2024-01-15T11:01:00Z",
       "updatedAt": "2024-01-15T11:01:00Z"
@@ -951,10 +853,7 @@
           "url": "/uploads/6af60724-d37e-4ba6-8133-24b86544fa3b.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "urgent"
-      ],
+      "labels": ["meeting", "urgent"],
       "timestamp": "2024-01-15T11:02:00Z",
       "createdAt": "2024-01-15T11:02:00Z",
       "updatedAt": "2024-01-15T11:02:00Z"
@@ -980,10 +879,7 @@
           "url": "/uploads/b57c890e-2376-42c2-83cb-0cdf9617c04d.file"
         }
       ],
-      "labels": [
-        "work",
-        "meeting"
-      ],
+      "labels": ["work", "meeting"],
       "timestamp": "2024-01-15T11:03:00Z",
       "createdAt": "2024-01-15T11:03:00Z",
       "updatedAt": "2024-01-15T11:03:00Z"
@@ -1009,10 +905,7 @@
           "url": "/uploads/450ae020-4c15-489b-ab01-74a4f513200c.file"
         }
       ],
-      "labels": [
-        "work",
-        "urgent"
-      ],
+      "labels": ["work", "urgent"],
       "timestamp": "2024-01-15T11:04:00Z",
       "createdAt": "2024-01-15T11:04:00Z",
       "updatedAt": "2024-01-15T11:04:00Z"
@@ -1038,11 +931,7 @@
           "url": "/uploads/1e17fb40-c612-48ce-af7e-6cc33d45f9fb.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "meeting",
-        "personal"
-      ],
+      "labels": ["urgent", "meeting", "personal"],
       "timestamp": "2024-01-15T11:05:00Z",
       "createdAt": "2024-01-15T11:05:00Z",
       "updatedAt": "2024-01-15T11:05:00Z"
@@ -1068,10 +957,7 @@
           "url": "/uploads/46c0f27e-5536-4164-a365-f79813c7d27c.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "finance"
-      ],
+      "labels": ["urgent", "finance"],
       "timestamp": "2024-01-15T11:06:00Z",
       "createdAt": "2024-01-15T11:06:00Z",
       "updatedAt": "2024-01-15T11:06:00Z"
@@ -1097,11 +983,7 @@
           "url": "/uploads/0a4b00f7-6036-45ce-959d-d79fb960f3d8.file"
         }
       ],
-      "labels": [
-        "personal",
-        "finance",
-        "urgent"
-      ],
+      "labels": ["personal", "finance", "urgent"],
       "timestamp": "2024-01-15T11:07:00Z",
       "createdAt": "2024-01-15T11:07:00Z",
       "updatedAt": "2024-01-15T11:07:00Z"
@@ -1127,10 +1009,7 @@
           "url": "/uploads/8e3dadf2-6475-4289-86f2-e931b17b4321.file"
         }
       ],
-      "labels": [
-        "personal",
-        "urgent"
-      ],
+      "labels": ["personal", "urgent"],
       "timestamp": "2024-01-15T11:08:00Z",
       "createdAt": "2024-01-15T11:08:00Z",
       "updatedAt": "2024-01-15T11:08:00Z"
@@ -1156,9 +1035,7 @@
           "url": "/uploads/e392afb2-1f79-4caf-93a3-159e1d29c528.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T11:09:00Z",
       "createdAt": "2024-01-15T11:09:00Z",
       "updatedAt": "2024-01-15T11:09:00Z"
@@ -1184,9 +1061,7 @@
           "url": "/uploads/d853ce94-3fcd-448a-a035-a3666ac521af.file"
         }
       ],
-      "labels": [
-        "urgent"
-      ],
+      "labels": ["urgent"],
       "timestamp": "2024-01-15T11:10:00Z",
       "createdAt": "2024-01-15T11:10:00Z",
       "updatedAt": "2024-01-15T11:10:00Z"
@@ -1212,9 +1087,7 @@
           "url": "/uploads/fc30bc00-c703-48f2-a1ed-2a1518a0b435.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T11:11:00Z",
       "createdAt": "2024-01-15T11:11:00Z",
       "updatedAt": "2024-01-15T11:11:00Z"
@@ -1240,9 +1113,7 @@
           "url": "/uploads/024ea144-095b-47b0-9494-244119de4d9f.file"
         }
       ],
-      "labels": [
-        "finance"
-      ],
+      "labels": ["finance"],
       "timestamp": "2024-01-15T11:12:00Z",
       "createdAt": "2024-01-15T11:12:00Z",
       "updatedAt": "2024-01-15T11:12:00Z"
@@ -1268,10 +1139,7 @@
           "url": "/uploads/ffb56efc-e9c6-444c-966e-7797fde0320e.file"
         }
       ],
-      "labels": [
-        "personal",
-        "meeting"
-      ],
+      "labels": ["personal", "meeting"],
       "timestamp": "2024-01-15T11:13:00Z",
       "createdAt": "2024-01-15T11:13:00Z",
       "updatedAt": "2024-01-15T11:13:00Z"
@@ -1297,9 +1165,7 @@
           "url": "/uploads/ec56d941-c6c5-4957-8704-93ebb6ef9adc.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T11:14:00Z",
       "createdAt": "2024-01-15T11:14:00Z",
       "updatedAt": "2024-01-15T11:14:00Z"
@@ -1325,9 +1191,7 @@
           "url": "/uploads/38f79141-d439-41c2-9da6-7cd2283e428d.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T11:15:00Z",
       "createdAt": "2024-01-15T11:15:00Z",
       "updatedAt": "2024-01-15T11:15:00Z"
@@ -1353,10 +1217,7 @@
           "url": "/uploads/4444f3ae-ef9f-4a02-8a19-314b4a99fc94.file"
         }
       ],
-      "labels": [
-        "personal",
-        "work"
-      ],
+      "labels": ["personal", "work"],
       "timestamp": "2024-01-15T11:16:00Z",
       "createdAt": "2024-01-15T11:16:00Z",
       "updatedAt": "2024-01-15T11:16:00Z"
@@ -1382,10 +1243,7 @@
           "url": "/uploads/44a7f371-68ae-4767-a6aa-096302a93739.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "finance"
-      ],
+      "labels": ["urgent", "finance"],
       "timestamp": "2024-01-15T11:17:00Z",
       "createdAt": "2024-01-15T11:17:00Z",
       "updatedAt": "2024-01-15T11:17:00Z"
@@ -1411,10 +1269,7 @@
           "url": "/uploads/52dc2511-f6ee-4c94-bbd4-f70394ebf58b.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "personal"
-      ],
+      "labels": ["urgent", "personal"],
       "timestamp": "2024-01-15T11:18:00Z",
       "createdAt": "2024-01-15T11:18:00Z",
       "updatedAt": "2024-01-15T11:18:00Z"
@@ -1440,9 +1295,7 @@
           "url": "/uploads/b34a303f-e064-4a69-8d56-206d1957a43c.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T11:19:00Z",
       "createdAt": "2024-01-15T11:19:00Z",
       "updatedAt": "2024-01-15T11:19:00Z"
@@ -1468,11 +1321,7 @@
           "url": "/uploads/2a37353a-a82d-4c2b-8654-65e3acb3619a.file"
         }
       ],
-      "labels": [
-        "finance",
-        "urgent",
-        "work"
-      ],
+      "labels": ["finance", "urgent", "work"],
       "timestamp": "2024-01-15T11:20:00Z",
       "createdAt": "2024-01-15T11:20:00Z",
       "updatedAt": "2024-01-15T11:20:00Z"
@@ -1498,11 +1347,7 @@
           "url": "/uploads/c5e987ae-0776-485a-bd56-7ac9b6d46617.file"
         }
       ],
-      "labels": [
-        "work",
-        "personal",
-        "finance"
-      ],
+      "labels": ["work", "personal", "finance"],
       "timestamp": "2024-01-15T11:21:00Z",
       "createdAt": "2024-01-15T11:21:00Z",
       "updatedAt": "2024-01-15T11:21:00Z"
@@ -1528,9 +1373,7 @@
           "url": "/uploads/6618fa67-3aeb-44d4-b54b-bb563275b048.file"
         }
       ],
-      "labels": [
-        "meeting"
-      ],
+      "labels": ["meeting"],
       "timestamp": "2024-01-15T11:22:00Z",
       "createdAt": "2024-01-15T11:22:00Z",
       "updatedAt": "2024-01-15T11:22:00Z"
@@ -1556,10 +1399,7 @@
           "url": "/uploads/e8680339-2563-4bd1-b844-c8f30f4791de.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "work"
-      ],
+      "labels": ["urgent", "work"],
       "timestamp": "2024-01-15T11:23:00Z",
       "createdAt": "2024-01-15T11:23:00Z",
       "updatedAt": "2024-01-15T11:23:00Z"
@@ -1585,9 +1425,7 @@
           "url": "/uploads/1d12c832-3e29-4317-b536-6a0b46a4287d.file"
         }
       ],
-      "labels": [
-        "urgent"
-      ],
+      "labels": ["urgent"],
       "timestamp": "2024-01-15T11:24:00Z",
       "createdAt": "2024-01-15T11:24:00Z",
       "updatedAt": "2024-01-15T11:24:00Z"
@@ -1613,9 +1451,7 @@
           "url": "/uploads/602a5795-aa8f-422e-aa83-5ae5553c0d7f.file"
         }
       ],
-      "labels": [
-        "finance"
-      ],
+      "labels": ["finance"],
       "timestamp": "2024-01-15T11:25:00Z",
       "createdAt": "2024-01-15T11:25:00Z",
       "updatedAt": "2024-01-15T11:25:00Z"
@@ -1641,10 +1477,7 @@
           "url": "/uploads/917cc9d7-a070-4e08-b4ee-c12b66980b81.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "work"
-      ],
+      "labels": ["urgent", "work"],
       "timestamp": "2024-01-15T11:26:00Z",
       "createdAt": "2024-01-15T11:26:00Z",
       "updatedAt": "2024-01-15T11:26:00Z"
@@ -1670,11 +1503,7 @@
           "url": "/uploads/090a9447-67aa-408f-a727-a7707c309a4f.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "personal",
-        "work"
-      ],
+      "labels": ["urgent", "personal", "work"],
       "timestamp": "2024-01-15T11:27:00Z",
       "createdAt": "2024-01-15T11:27:00Z",
       "updatedAt": "2024-01-15T11:27:00Z"
@@ -1700,11 +1529,7 @@
           "url": "/uploads/868a5d5b-7542-48ca-8890-cfa5ac548510.file"
         }
       ],
-      "labels": [
-        "personal",
-        "urgent",
-        "finance"
-      ],
+      "labels": ["personal", "urgent", "finance"],
       "timestamp": "2024-01-15T11:28:00Z",
       "createdAt": "2024-01-15T11:28:00Z",
       "updatedAt": "2024-01-15T11:28:00Z"
@@ -1730,10 +1555,7 @@
           "url": "/uploads/2a18be48-cb12-4596-9755-48fb2b99b5e7.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "personal"
-      ],
+      "labels": ["urgent", "personal"],
       "timestamp": "2024-01-15T11:29:00Z",
       "createdAt": "2024-01-15T11:29:00Z",
       "updatedAt": "2024-01-15T11:29:00Z"
@@ -1759,11 +1581,7 @@
           "url": "/uploads/fed1155e-80ca-424e-b6ad-beb5a269ba37.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "personal",
-        "work"
-      ],
+      "labels": ["urgent", "personal", "work"],
       "timestamp": "2024-01-15T11:30:00Z",
       "createdAt": "2024-01-15T11:30:00Z",
       "updatedAt": "2024-01-15T11:30:00Z"
@@ -1789,11 +1607,7 @@
           "url": "/uploads/981e416c-d247-44f6-ac8e-5f00f5f0ea23.file"
         }
       ],
-      "labels": [
-        "work",
-        "meeting",
-        "finance"
-      ],
+      "labels": ["work", "meeting", "finance"],
       "timestamp": "2024-01-15T11:31:00Z",
       "createdAt": "2024-01-15T11:31:00Z",
       "updatedAt": "2024-01-15T11:31:00Z"
@@ -1819,11 +1633,7 @@
           "url": "/uploads/d9697c70-f8e8-41a1-8b2f-a556188d2f43.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "finance",
-        "urgent"
-      ],
+      "labels": ["meeting", "finance", "urgent"],
       "timestamp": "2024-01-15T11:32:00Z",
       "createdAt": "2024-01-15T11:32:00Z",
       "updatedAt": "2024-01-15T11:32:00Z"
@@ -1849,9 +1659,7 @@
           "url": "/uploads/31214020-1f99-4feb-8fd8-491e1fd8a7ef.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T11:33:00Z",
       "createdAt": "2024-01-15T11:33:00Z",
       "updatedAt": "2024-01-15T11:33:00Z"
@@ -1877,10 +1685,7 @@
           "url": "/uploads/079840e1-c57d-45b7-a228-abc9bc5fb88b.file"
         }
       ],
-      "labels": [
-        "work",
-        "personal"
-      ],
+      "labels": ["work", "personal"],
       "timestamp": "2024-01-15T11:34:00Z",
       "createdAt": "2024-01-15T11:34:00Z",
       "updatedAt": "2024-01-15T11:34:00Z"
@@ -1906,11 +1711,7 @@
           "url": "/uploads/b575bf7a-d1e2-4076-b3fb-36bea55134a5.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "personal",
-        "work"
-      ],
+      "labels": ["urgent", "personal", "work"],
       "timestamp": "2024-01-15T11:35:00Z",
       "createdAt": "2024-01-15T11:35:00Z",
       "updatedAt": "2024-01-15T11:35:00Z"
@@ -1936,10 +1737,7 @@
           "url": "/uploads/361184b8-2572-4146-9868-cabf370badd7.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "finance"
-      ],
+      "labels": ["urgent", "finance"],
       "timestamp": "2024-01-15T11:36:00Z",
       "createdAt": "2024-01-15T11:36:00Z",
       "updatedAt": "2024-01-15T11:36:00Z"
@@ -1965,9 +1763,7 @@
           "url": "/uploads/17367a98-014e-4683-ab43-ae234580fdcb.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T11:37:00Z",
       "createdAt": "2024-01-15T11:37:00Z",
       "updatedAt": "2024-01-15T11:37:00Z"
@@ -1993,9 +1789,7 @@
           "url": "/uploads/961b46bd-fa1b-418e-8ade-9a8692443e38.file"
         }
       ],
-      "labels": [
-        "meeting"
-      ],
+      "labels": ["meeting"],
       "timestamp": "2024-01-15T11:38:00Z",
       "createdAt": "2024-01-15T11:38:00Z",
       "updatedAt": "2024-01-15T11:38:00Z"
@@ -2021,11 +1815,7 @@
           "url": "/uploads/88111dd3-5357-443e-9eb9-d6f8f579a2ff.file"
         }
       ],
-      "labels": [
-        "work",
-        "personal",
-        "urgent"
-      ],
+      "labels": ["work", "personal", "urgent"],
       "timestamp": "2024-01-15T11:39:00Z",
       "createdAt": "2024-01-15T11:39:00Z",
       "updatedAt": "2024-01-15T11:39:00Z"
@@ -2051,9 +1841,7 @@
           "url": "/uploads/e6b42478-d4f9-4cb1-a5d6-b09c3bf6863b.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T11:40:00Z",
       "createdAt": "2024-01-15T11:40:00Z",
       "updatedAt": "2024-01-15T11:40:00Z"
@@ -2079,10 +1867,7 @@
           "url": "/uploads/69c92505-ae80-4588-ba52-b3ee11696276.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "work"
-      ],
+      "labels": ["urgent", "work"],
       "timestamp": "2024-01-15T11:41:00Z",
       "createdAt": "2024-01-15T11:41:00Z",
       "updatedAt": "2024-01-15T11:41:00Z"
@@ -2108,9 +1893,7 @@
           "url": "/uploads/1e745f2d-e8d3-4c7c-a22e-fcdcdbc0d376.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T11:42:00Z",
       "createdAt": "2024-01-15T11:42:00Z",
       "updatedAt": "2024-01-15T11:42:00Z"
@@ -2136,11 +1919,7 @@
           "url": "/uploads/a6961b52-8b71-42c5-ab9d-7bfe94cfc9a3.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "work",
-        "personal"
-      ],
+      "labels": ["urgent", "work", "personal"],
       "timestamp": "2024-01-15T11:43:00Z",
       "createdAt": "2024-01-15T11:43:00Z",
       "updatedAt": "2024-01-15T11:43:00Z"
@@ -2166,11 +1945,7 @@
           "url": "/uploads/dfe1aff2-7393-48c8-82d1-10601d674a09.file"
         }
       ],
-      "labels": [
-        "finance",
-        "urgent",
-        "personal"
-      ],
+      "labels": ["finance", "urgent", "personal"],
       "timestamp": "2024-01-15T11:44:00Z",
       "createdAt": "2024-01-15T11:44:00Z",
       "updatedAt": "2024-01-15T11:44:00Z"
@@ -2196,11 +1971,7 @@
           "url": "/uploads/78bd83b0-5e8f-4e85-97cf-7a308c192685.file"
         }
       ],
-      "labels": [
-        "personal",
-        "meeting",
-        "urgent"
-      ],
+      "labels": ["personal", "meeting", "urgent"],
       "timestamp": "2024-01-15T11:45:00Z",
       "createdAt": "2024-01-15T11:45:00Z",
       "updatedAt": "2024-01-15T11:45:00Z"
@@ -2226,10 +1997,7 @@
           "url": "/uploads/ce111aee-f3d0-4f4f-b972-ebf67934d6e5.file"
         }
       ],
-      "labels": [
-        "work",
-        "urgent"
-      ],
+      "labels": ["work", "urgent"],
       "timestamp": "2024-01-15T11:46:00Z",
       "createdAt": "2024-01-15T11:46:00Z",
       "updatedAt": "2024-01-15T11:46:00Z"
@@ -2255,9 +2023,7 @@
           "url": "/uploads/f6b2e961-6e83-4e2e-b65d-2045928d44fe.file"
         }
       ],
-      "labels": [
-        "urgent"
-      ],
+      "labels": ["urgent"],
       "timestamp": "2024-01-15T11:47:00Z",
       "createdAt": "2024-01-15T11:47:00Z",
       "updatedAt": "2024-01-15T11:47:00Z"
@@ -2283,9 +2049,7 @@
           "url": "/uploads/d5daedba-dd90-4f00-a4be-406426406ee3.file"
         }
       ],
-      "labels": [
-        "finance"
-      ],
+      "labels": ["finance"],
       "timestamp": "2024-01-15T11:48:00Z",
       "createdAt": "2024-01-15T11:48:00Z",
       "updatedAt": "2024-01-15T11:48:00Z"
@@ -2311,9 +2075,7 @@
           "url": "/uploads/719dc6b6-257c-46da-898a-fca1823bcb22.file"
         }
       ],
-      "labels": [
-        "meeting"
-      ],
+      "labels": ["meeting"],
       "timestamp": "2024-01-15T11:49:00Z",
       "createdAt": "2024-01-15T11:49:00Z",
       "updatedAt": "2024-01-15T11:49:00Z"
@@ -2339,10 +2101,7 @@
           "url": "/uploads/8681fe8e-a1e8-4749-b257-0ec15313f7ef.file"
         }
       ],
-      "labels": [
-        "finance",
-        "meeting"
-      ],
+      "labels": ["finance", "meeting"],
       "timestamp": "2024-01-15T11:50:00Z",
       "createdAt": "2024-01-15T11:50:00Z",
       "updatedAt": "2024-01-15T11:50:00Z"
@@ -2368,11 +2127,7 @@
           "url": "/uploads/0afbfba9-4204-416b-b65c-0e8ab82adfc0.file"
         }
       ],
-      "labels": [
-        "personal",
-        "work",
-        "meeting"
-      ],
+      "labels": ["personal", "work", "meeting"],
       "timestamp": "2024-01-15T11:51:00Z",
       "createdAt": "2024-01-15T11:51:00Z",
       "updatedAt": "2024-01-15T11:51:00Z"
@@ -2398,10 +2153,7 @@
           "url": "/uploads/13bb7141-03ce-4fe1-be86-231cc47e49fa.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "finance"
-      ],
+      "labels": ["urgent", "finance"],
       "timestamp": "2024-01-15T11:52:00Z",
       "createdAt": "2024-01-15T11:52:00Z",
       "updatedAt": "2024-01-15T11:52:00Z"
@@ -2427,11 +2179,7 @@
           "url": "/uploads/1f5c5ae0-ae92-4fac-be8b-75b68a8ca60d.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "personal",
-        "finance"
-      ],
+      "labels": ["meeting", "personal", "finance"],
       "timestamp": "2024-01-15T11:53:00Z",
       "createdAt": "2024-01-15T11:53:00Z",
       "updatedAt": "2024-01-15T11:53:00Z"
@@ -2457,10 +2205,7 @@
           "url": "/uploads/b4660859-63a4-4cbe-b126-c1d51310873a.file"
         }
       ],
-      "labels": [
-        "personal",
-        "work"
-      ],
+      "labels": ["personal", "work"],
       "timestamp": "2024-01-15T11:54:00Z",
       "createdAt": "2024-01-15T11:54:00Z",
       "updatedAt": "2024-01-15T11:54:00Z"
@@ -2486,10 +2231,7 @@
           "url": "/uploads/fd65c47e-9a86-41ae-b0ff-d831c761bcba.file"
         }
       ],
-      "labels": [
-        "finance",
-        "meeting"
-      ],
+      "labels": ["finance", "meeting"],
       "timestamp": "2024-01-15T11:55:00Z",
       "createdAt": "2024-01-15T11:55:00Z",
       "updatedAt": "2024-01-15T11:55:00Z"
@@ -2515,9 +2257,7 @@
           "url": "/uploads/f28bc602-5f1d-4c31-8ce8-3ad65436aad4.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T11:56:00Z",
       "createdAt": "2024-01-15T11:56:00Z",
       "updatedAt": "2024-01-15T11:56:00Z"
@@ -2543,11 +2283,7 @@
           "url": "/uploads/5a843e56-aa5e-4f03-8e87-da26d6f68034.file"
         }
       ],
-      "labels": [
-        "work",
-        "finance",
-        "urgent"
-      ],
+      "labels": ["work", "finance", "urgent"],
       "timestamp": "2024-01-15T11:57:00Z",
       "createdAt": "2024-01-15T11:57:00Z",
       "updatedAt": "2024-01-15T11:57:00Z"
@@ -2573,9 +2309,7 @@
           "url": "/uploads/34cfaaeb-1b8d-41e2-b2c1-ac8f6cadc974.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T11:58:00Z",
       "createdAt": "2024-01-15T11:58:00Z",
       "updatedAt": "2024-01-15T11:58:00Z"
@@ -2601,11 +2335,7 @@
           "url": "/uploads/c4f6a0eb-ea5d-4417-ab6b-2e3316a8c180.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "finance",
-        "personal"
-      ],
+      "labels": ["meeting", "finance", "personal"],
       "timestamp": "2024-01-15T11:59:00Z",
       "createdAt": "2024-01-15T11:59:00Z",
       "updatedAt": "2024-01-15T11:59:00Z"
@@ -2631,10 +2361,7 @@
           "url": "/uploads/97624de7-2a20-49a7-98d4-4f874adae062.file"
         }
       ],
-      "labels": [
-        "personal",
-        "work"
-      ],
+      "labels": ["personal", "work"],
       "timestamp": "2024-01-15T12:00:00Z",
       "createdAt": "2024-01-15T12:00:00Z",
       "updatedAt": "2024-01-15T12:00:00Z"
@@ -2660,10 +2387,7 @@
           "url": "/uploads/b6536226-333e-4dd2-972b-22c2ddf8bd07.file"
         }
       ],
-      "labels": [
-        "personal",
-        "meeting"
-      ],
+      "labels": ["personal", "meeting"],
       "timestamp": "2024-01-15T12:01:00Z",
       "createdAt": "2024-01-15T12:01:00Z",
       "updatedAt": "2024-01-15T12:01:00Z"
@@ -2689,9 +2413,7 @@
           "url": "/uploads/255f65d2-3526-4a9c-857e-edc985794a04.file"
         }
       ],
-      "labels": [
-        "finance"
-      ],
+      "labels": ["finance"],
       "timestamp": "2024-01-15T12:02:00Z",
       "createdAt": "2024-01-15T12:02:00Z",
       "updatedAt": "2024-01-15T12:02:00Z"
@@ -2717,9 +2439,7 @@
           "url": "/uploads/b6b92b25-1012-49d3-9e4a-f2285e793932.file"
         }
       ],
-      "labels": [
-        "urgent"
-      ],
+      "labels": ["urgent"],
       "timestamp": "2024-01-15T12:03:00Z",
       "createdAt": "2024-01-15T12:03:00Z",
       "updatedAt": "2024-01-15T12:03:00Z"
@@ -2745,10 +2465,7 @@
           "url": "/uploads/ba989e69-b31d-458c-a9f8-5826366790aa.file"
         }
       ],
-      "labels": [
-        "personal",
-        "finance"
-      ],
+      "labels": ["personal", "finance"],
       "timestamp": "2024-01-15T12:04:00Z",
       "createdAt": "2024-01-15T12:04:00Z",
       "updatedAt": "2024-01-15T12:04:00Z"
@@ -2774,9 +2491,7 @@
           "url": "/uploads/97cfe90a-2bb2-4017-8490-a6a366d07eb2.file"
         }
       ],
-      "labels": [
-        "personal"
-      ],
+      "labels": ["personal"],
       "timestamp": "2024-01-15T12:05:00Z",
       "createdAt": "2024-01-15T12:05:00Z",
       "updatedAt": "2024-01-15T12:05:00Z"
@@ -2802,11 +2517,7 @@
           "url": "/uploads/da28c57a-eb77-4e0a-91e3-d7366d246a22.file"
         }
       ],
-      "labels": [
-        "meeting",
-        "urgent",
-        "work"
-      ],
+      "labels": ["meeting", "urgent", "work"],
       "timestamp": "2024-01-15T12:06:00Z",
       "createdAt": "2024-01-15T12:06:00Z",
       "updatedAt": "2024-01-15T12:06:00Z"
@@ -2832,9 +2543,7 @@
           "url": "/uploads/5986e053-53a1-49a4-96ff-119eb235599e.file"
         }
       ],
-      "labels": [
-        "work"
-      ],
+      "labels": ["work"],
       "timestamp": "2024-01-15T12:07:00Z",
       "createdAt": "2024-01-15T12:07:00Z",
       "updatedAt": "2024-01-15T12:07:00Z"
@@ -2860,10 +2569,7 @@
           "url": "/uploads/a62e104f-195e-495d-80fc-77e80ec0327c.file"
         }
       ],
-      "labels": [
-        "work",
-        "personal"
-      ],
+      "labels": ["work", "personal"],
       "timestamp": "2024-01-15T12:08:00Z",
       "createdAt": "2024-01-15T12:08:00Z",
       "updatedAt": "2024-01-15T12:08:00Z"
@@ -2889,10 +2595,7 @@
           "url": "/uploads/3e54c9ba-fc7f-4565-bbad-32180cedc309.file"
         }
       ],
-      "labels": [
-        "urgent",
-        "meeting"
-      ],
+      "labels": ["urgent", "meeting"],
       "timestamp": "2024-01-15T12:09:00Z",
       "createdAt": "2024-01-15T12:09:00Z",
       "updatedAt": "2024-01-15T12:09:00Z"

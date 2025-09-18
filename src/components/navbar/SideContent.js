@@ -91,4 +91,4 @@ const SideContent = () => (
   </ul>
 );
 
-export default SideContent
+export default SideContent;

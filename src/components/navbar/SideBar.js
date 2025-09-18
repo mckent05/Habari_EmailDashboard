@@ -57,7 +57,10 @@ const Sidebar = () => {
                         }`}
                         onClick={(e) => handleChildClick(e, link)}
                       >
-                        <NavLink to={`/app/${link}s`} className="child-link email">
+                        <NavLink
+                          to={`/app/${link}s`}
+                          className="child-link email"
+                        >
                           {link}
                         </NavLink>
                       </li>

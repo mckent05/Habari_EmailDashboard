@@ -8,7 +8,9 @@ const StatisticsCard = ({ title, value, previous, progress, positive }) => {
         <h6 className="text-muted">{title}</h6>
         <h3 className="fw-bold">{value}</h3>
         <p className="text-muted mb-1">Previous {previous}</p>
-        <span className={`fw-semibold ${positive ? "text-success" : "text-danger"}`}>
+        <span
+          className={`fw-semibold ${positive ? "text-success" : "text-danger"}`}
+        >
           {progress}
         </span>
       </Card.Body>
