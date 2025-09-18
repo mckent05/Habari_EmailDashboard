@@ -1,8 +1,8 @@
-📖 Email Dashboard <a name="about-project"></a>
+# 📖 Email Dashboard <a name="about-project"></a>
 
-This project is a modular and responsive email dashboard built with React and JavaScript. It replicates a Gmail-like UI with sidebar navigation, a searchable inbox, starred filtering, and server-side pagination.
+This project is an Email dashboard replica built with React and JavaScript. It replicates a Gmail-like UI with a sidebar navigation,a searchable inbox, starred filtering, and server-side implemented pagination.
 
-The goal was to design a scalable frontend that can fetch and display large sets of emails efficiently while staying responsive across devices.
+The goal of this project was to design a scalable frontend that fetches and displays large sets of emails efficiently while staying responsive across devices.
 
 🛠 Built With <a name="built-with"></a>
 Tech Stack <a name="tech-stack"></a>
@@ -16,8 +16,6 @@ Key Features <a name="key-features"></a>
 ⭐ Starred Filter — Shows only starred emails when enabled (optional param).
 
 📑 Server-side Pagination — Efficiently loads data in chunks, not all at once.
-
-📱 Responsive Layout — Sidebar collapses into an off-canvas menu on mobile.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 🚀 Live Demo <a name="live-demo"></a>
@@ -40,26 +38,28 @@ Setup
 
 Clone this repository to your local machine:
 
-  git clone git@github.com:your-username/email-dashboard.git
+  git clone https://github.com/mckent05/Habari_EmailDashboard.git
   cd email-dashboard
 
 Install
 
 Install dependencies:
 
-  npm install
-
+  ```sh
+    npm install
+  ```
 Usage
 
 Run the development server:
 
+  ```sh
   npm start
-
+  ```
 Run tests
 
 Add test runner when available, e.g. jest or vitest.
 
-Deployment
+## Deployment
 
 You can deploy using Vercel, Netlify, or GitHub Pages.
 
@@ -67,16 +67,17 @@ You can deploy using Vercel, Netlify, or GitHub Pages.
 ⚡ Server-Side Pagination Approach
 
 Instead of loading all emails into memory, the dashboard requests only a slice of the dataset per page.
+This approach was chosen because it computes faster, hence improving the performance of the application. Instead 
+of performing the pagination on the client side and loading all emails into memory, this approach ensures the pagination is smooth.
 
 Frontend sends:
 
 /api/emails?page=2&limit=15&search=hello&filter=inbox
 
-
 Backend responds with:
-
+```sh
 {
-  "data": [...15 emails...],
+  "data":Array(15),
   "pagination": {
     "page": 2,
     "limit": 15,
@@ -84,9 +85,8 @@ Backend responds with:
     "totalPages": 11
   }
 }
-
-
-The UI shows start – end of total and updates navigation buttons accordingly.
+```
+The UI shows the start and end of the total and updates navigation buttons accordingly.
 
 isStarred is only sent when true, reducing unnecessary query params.
 
@@ -98,28 +98,26 @@ Faster rendering performance on large inboxes.
 
 Accurate results with filtering and searching.
 
-⚖️ Tradeoffs, Performance Decisions & Assumptions
+## ⚖️ Tradeoffs, Performance Decisions & Assumptions
 Tradeoffs
 
-Used server-side pagination: better scalability vs. slightly higher API complexity.
+Used server-side pagination: This help with better scalability vs. slightly higher API complexity.
 
-Sidebar is always visible on desktop but collapsible on mobile (tradeoff between simplicity and Gmail-like functionality).
+Sidebar is always visible on the desktop.
 
 Chose Bootstrap over custom CSS frameworks: faster dev time but less design flexibility.
 
-Performance Decisions
+## Performance Decisions
 
-Added debounce (3s) for search to avoid excessive API calls.
+Added debounce (3s) for search to avoid excessive API calls. 
 
 Implemented keepPreviousData in React Query so pages don’t blank out during transitions.
 
 Optional isStarred param → reduces unnecessary backend filtering when not needed.
 
-Assumptions
+## Assumptions
 
-API is capable of handling queries with page, limit, search, filter, and isStarred.
-
-Backend handles filtering and searching efficiently (e.g., via indexed DB queries).
+The backend handles filtering and searching efficiently (e.g., via indexed database queries).
 
 Emails dataset can be large, so pagination is necessary.
 
@@ -127,9 +125,9 @@ Emails dataset can be large, so pagination is necessary.
 
 👤 Your Name
 
-GitHub: @yourhandle
+GitHub: @mckent05
 
-LinkedIn: Your LinkedIn
+LinkedIn: [@temitope](https://www.linkedin.com/in/akinladetemitope)
 
 🔭 Future Features <a name="future-features"></a>
 
@@ -137,7 +135,7 @@ LinkedIn: Your LinkedIn
 
  Email details preview pane.
 
- Infinite scroll option as alternative to pagination.
+ Infinite scroll option as an alternative to pagination.
 
 🤝 Contributing <a name="contributing"></a>
 
@@ -155,5 +153,4 @@ Special thanks to open-source contributors of React Query, Bootstrap, and React 
 
 📝 License <a name="license"></a>
 
-This project is MIT
- licensed.
+This project is MIT licensed.
