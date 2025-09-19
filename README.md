@@ -1,5 +1,4 @@
 # 📖 Email Dashboard <a name="about-project"></a>
-# 📖 Email Dashboard <a name="about-project"></a>
 
 This project is an Email dashboard replica built with React and JavaScript. It replicates a Gmail-like UI with a sidebar navigation,a searchable inbox, starred filtering, and server-side implemented pagination.
 
@@ -21,9 +20,7 @@ Key Features <a name="key-features"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 🚀 Live Demo <a name="live-demo"></a>
 
-Replace with your deployed link.
-
-Live Demo Link
+[Live Project](https://myemailclone.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 💻 Getting Started <a name="getting-started"></a>
@@ -44,7 +41,7 @@ Clone this repository to your local machine:
 
 Install
 
-Install dependencies:
+Install project dependencies:
 
   ```sh
     npm install
@@ -73,7 +70,7 @@ of performing the pagination on the client side and loading all emails into memo
 
 Frontend sends:
 
-/api/emails?page=2&limit=15&search=hello&filter=inbox
+/api/emails?page=2&limit=15&search=hello&filter=all
 
 Backend responds with:
 ```sh
