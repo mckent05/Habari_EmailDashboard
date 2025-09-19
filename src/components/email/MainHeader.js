@@ -11,7 +11,7 @@ function MainHeader({
   emailLength,
   totalLength,
   pageSize,
-  fetch
+  fetch,
 }) {
   return (
     <div>
