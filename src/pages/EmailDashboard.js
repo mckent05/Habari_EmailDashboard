@@ -25,7 +25,7 @@ const EmailDashboard = () => {
     ...(isStarred === true && { isStarred: true }),
   };
 
-  const { data, isLoading } = useQuery({
+  const { data, isFetching, refetch } = useQuery({
     queryKey: ["emails", queryParams],
     queryFn: fetchEmails,
     keepPreviousData: true,
@@ -49,8 +49,9 @@ const EmailDashboard = () => {
           totalLength={totalLength}
           onPageChange={setCurrentPage}
           pageSize={PAGE_SIZE}
+          fetch={refetch}
         />
-        <EmailList emails={emails} isLoading={isLoading} />
+        <EmailList emails={emails} isLoading={isFetching} />
       </div>
     </div>
   );

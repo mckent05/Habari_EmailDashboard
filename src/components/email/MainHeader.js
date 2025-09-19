@@ -11,6 +11,7 @@ function MainHeader({
   emailLength,
   totalLength,
   pageSize,
+  fetch
 }) {
   return (
     <div>
@@ -22,7 +23,7 @@ function MainHeader({
       <div className="d-flex justify-content-between align-items-center p-2">
         <div className="d-flex align-items-center">
           <input type="checkbox" className="form-check-input me-2" />
-          <button className="btn btn-light btn-sm">
+          <button onClick={() => fetch()} className="btn btn-light btn-sm">
             <i className="bi bi-arrow-clockwise"></i>
           </button>
         </div>
