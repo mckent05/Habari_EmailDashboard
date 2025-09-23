@@ -1,11 +1,13 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import navLinks from "./links";
 import NavLinks from "./NavLinks";
-import { NavLink } from "react-router-dom";
+import { NavLink, useLocation } from "react-router-dom";
 
 const Sidebar = () => {
-  const [activeParent, setActiveParent] = useState("marketing");
-  const [activeChild, setActiveChild] = useState("");
+  const location = useLocation()
+
+  const [activeParent, setActiveParent] = useState("app");
+  const [activeChild, setActiveChild] = useState("email");
 
   const handleParentClick = (parent, hasChildren) => {
     if (hasChildren) {
@@ -20,6 +22,13 @@ const Sidebar = () => {
     e.stopPropagation();
     setActiveChild(child);
   };
+
+  useEffect(() => {
+    if(location.pathname === "/") {
+      setActiveParent("marketing")
+      setActiveChild("")
+    }
+  }, [location.pathname])
 
   return (
     <nav className="sidenav">
